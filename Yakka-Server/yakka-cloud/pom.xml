@@ -7,7 +7,7 @@
     <artifactId>yakka-cloud</artifactId>
     <version>3.0.6</version>
     <packaging>pom</packaging>
-    <url>https://github.com/BlockWind/yakka/url>
+    <url>https://github.com/BlockWind/yakka</url>
     <name>${project.artifactId}</name>
     <description>yakka-cloud</description>
 
