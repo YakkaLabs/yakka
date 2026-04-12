@@ -12,6 +12,7 @@
     <description>yakka-cloud</description>
 
     <modules>
+        <module>yakka-util</module>
         <module>yakka-dependencies-parent</module>
         <module>yakka-public</module>
         <module>yakka-base</module>

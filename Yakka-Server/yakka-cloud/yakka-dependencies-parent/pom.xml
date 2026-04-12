@@ -19,7 +19,7 @@
 
     <name>${project.artifactId}</name>
     <description>yakka项目业务父pom</description>
-    <url>https://gitee.com/HuLaSpark/HuLa-Server</url>
+    <url>https://github.com/BlockWind/yakka</url>
     <properties>
         <yakka-util.version>3.0.6</yakka-util.version>
         <yakka-project.version>3.0.6</yakka-project.version>
