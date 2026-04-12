@@ -1,8 +1,8 @@
 # 代码生成
 yakka:
   generator:
-    outputDir: /Users/tangyh/gitlab/yakka-cloud-pro-none
-    frontOutputDir: /Users/tangyh/gitlab/yakka-web-pro
+    outputDir: /Users/tuan/gitlab/yakka-cloud-pro-none
+    frontOutputDir: /Users/tuan/gitlab/yakka-web-pro
     # 作者
     author: qianqian
     # 默认项目

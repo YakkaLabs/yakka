@@ -1,0 +1,1 @@
+[yakka-gateway-server:18760:] 2026-04-12 14:45:03.168[ WARN] 42128 [] [main:7823] [com.yakka.basic.cache.RedisAutoConfigure.cacheOps:118] 检查到缓存采用了 Redis模式

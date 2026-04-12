@@ -1,0 +1,143 @@
+[yakka-gateway-server:0000:] 2026-04-12 14:44:57.461[ INFO] 42128 [] [main:2116] [com.alibaba.nacos.client.logging.NacosLogging.initLoggingAdapter:52] Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback12.LogbackNacosLoggingAdapterBuilder
+[yakka-gateway-server:0000:] 2026-04-12 14:44:57.471[ INFO] 42128 [] [main:2126] [com.alibaba.nacos.client.logging.NacosLogging.initLoggingAdapter:52] Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapterBuilder
+[yakka-gateway-server:0000:] 2026-04-12 14:44:57.472[ INFO] 42128 [] [main:2127] [com.alibaba.nacos.client.logging.NacosLogging.initLoggingAdapter:55] Nacos Logging Adapter: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapter match ch.qos.logback.classic.Logger success.
+[yakka-gateway-server:0000:] 2026-04-12 14:44:57.477[ INFO] 42128 [] [main:2132] [com.alibaba.nacos.client.logging.NacosLogging.initLoggingAdapter:52] Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.log4j2.Log4j2NacosLoggingAdapterBuilder
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.110[ INFO] 42128 [] [main:2765] [c.a.n.p.auth.spi.client.ClientAuthPluginManager.init:56] [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.111[ INFO] 42128 [] [main:2766] [c.a.n.p.auth.spi.client.ClientAuthPluginManager.init:56] [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.686[ INFO] 42128 [] [main:3341] [c.a.n.common.ability.AbstractAbilityControlManager.initAbilityTable:61] Ready to get current node abilities...
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.687[ INFO] 42128 [] [main:3342] [c.a.n.common.ability.AbstractAbilityControlManager.initAbilityTable:89] Ready to initialize current node abilities, support modes: [SDK_CLIENT]
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.688[ INFO] 42128 [] [main:3343] [c.a.n.common.ability.AbstractAbilityControlManager.initAbilityTable:94] Initialize current abilities finish...
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.688[ INFO] 42128 [] [main:3343] [c.a.n.c.ability.discover.NacosAbilityManagerHolder.initAbilityControlManager:85] [AbilityControlManager] Successfully initialize AbilityControlManager
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.785[ WARN] 42128 [] [main:3440] [c.a.cloud.nacos.client.NacosPropertySourceBuilder.loadNacosData:97] Ignore the empty nacos configuration and get it based on dataId[yakka-gateway-server] & group[DEFAULT_GROUP]
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.796[ WARN] 42128 [] [main:3451] [c.a.cloud.nacos.client.NacosPropertySourceBuilder.loadNacosData:97] Ignore the empty nacos configuration and get it based on dataId[yakka-gateway-server-dev.yml] & group[DEFAULT_GROUP]
+[yakka-gateway-server:0000:] 2026-04-12 14:44:58.796[ INFO] 42128 [] [main:3451] [o.s.c.b.c.PropertySourceBootstrapConfiguration.doInitialize:134] Located property source: [BootstrapPropertySource {name='bootstrapProperties-yakka-gateway-server-dev.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yakka-gateway-server.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-yakka-gateway-server,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-rocketmq.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-mysql.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-redis.yml,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-common.yml,DEFAULT_GROUP'}]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:58.832[ INFO] 42128 [] [main:3487] [com.yakka.flex.GatewayServerApplication.logStartupProfileInfo:658] The following 1 profile is active: "dev"
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.603[ INFO] 42128 [] [main:4258] [o.s.b.factory.support.DefaultListableBeanFactory.logBeanDefinitionOverriding:1261] Overriding bean definition for bean '${yakka.feign.base-server:yakka-base-server}.FeignClientSpecification' with a different definition: replacing [Generic bean: class=org.springframework.cloud.openfeign.FeignClientSpecification; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=null; factoryMethodName=null; initMethodNames=null; destroyMethodNames=null] with [Generic bean: class=org.springframework.cloud.openfeign.FeignClientSpecification; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=null; factoryMethodName=null; initMethodNames=null; destroyMethodNames=null]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.667[ INFO] 42128 [] [main:4322] [o.s.b.factory.support.DefaultListableBeanFactory.logBeanDefinitionOverriding:1261] Overriding bean definition for bean 'discoveryClientRouteDefinitionLocator' with a different definition: replacing [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=corsConfiguration; factoryMethodName=discoveryClientRouteDefinitionLocator; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/yakka/flex/gateway/config/CorsConfiguration.class]] with [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=org.springframework.cloud.gateway.discovery.GatewayDiscoveryClientAutoConfiguration$ReactiveDiscoveryClientRouteDefinitionLocatorConfiguration; factoryMethodName=discoveryClientRouteDefinitionLocator; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [org/springframework/cloud/gateway/discovery/GatewayDiscoveryClientAutoConfiguration$ReactiveDiscoveryClientRouteDefinitionLocatorConfiguration.class]]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.712[ INFO] 42128 [] [main:4367] [o.s.b.factory.support.DefaultListableBeanFactory.logBeanDefinitionOverriding:1261] Overriding bean definition for bean 'serverCodecConfigurer' with a different definition: replacing [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=corsConfiguration; factoryMethodName=serverCodecConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/yakka/flex/gateway/config/CorsConfiguration.class]] with [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=org.springframework.boot.autoconfigure.web.reactive.WebFluxAutoConfiguration$EnableWebFluxConfiguration; factoryMethodName=serverCodecConfigurer; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [org/springframework/boot/autoconfigure/web/reactive/WebFluxAutoConfiguration$EnableWebFluxConfiguration.class]]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.823[ INFO] 42128 [] [main:4478] [o.s.b.factory.support.DefaultListableBeanFactory.logBeanDefinitionOverriding:1261] Overriding bean definition for bean 'redisTemplate' with a different definition: replacing [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=org.redisson.spring.starter.RedissonAutoConfigurationV2; factoryMethodName=redisTemplate; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [org/redisson/spring/starter/RedissonAutoConfigurationV2.class]] with [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=com.yakka.basic.cache.RedisAutoConfigure; factoryMethodName=redisTemplate; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/yakka/basic/cache/RedisAutoConfigure.class]]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.826[ INFO] 42128 [] [main:4481] [o.s.b.factory.support.DefaultListableBeanFactory.logBeanDefinitionOverriding:1261] Overriding bean definition for bean 'stringRedisTemplate' with a different definition: replacing [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=org.redisson.spring.starter.RedissonAutoConfigurationV2; factoryMethodName=stringRedisTemplate; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [org/redisson/spring/starter/RedissonAutoConfigurationV2.class]] with [Root bean: class=null; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; fallback=false; factoryBeanName=com.yakka.basic.cache.RedisAutoConfigure; factoryMethodName=stringRedisTemplate; initMethodNames=null; destroyMethodNames=[(inferred)]; defined in class path resource [com/yakka/basic/cache/RedisAutoConfigure.class]]
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.964[ INFO] 42128 [] [main:4619] [o.s.d.r.config.RepositoryConfigurationDelegate.multipleStoresDetected:295] Multiple Spring Data modules found, entering strict repository configuration mode
+[yakka-gateway-server:18760:] 2026-04-12 14:44:59.966[ INFO] 42128 [] [main:4621] [o.s.d.r.config.RepositoryConfigurationDelegate.registerRepositoriesIn:143] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:00.013[ INFO] 42128 [] [main:4668] [o.s.d.r.config.RepositoryConfigurationDelegate.registerRepositoriesIn:211] Finished Spring Data repository scanning in 31 ms. Found 0 Redis repository interfaces.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:00.239[ INFO] 42128 [] [main:4894] [o.springframework.cloud.context.scope.GenericScope.setSerializationId:282] BeanFactory id=6423978d-7d6d-3097-8906-3781c75b2407
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.318[ INFO] 42128 [] [main:5973] [c.a.d.s.b.a.DruidDataSourceAutoConfigure.dataSource:68] Init DruidDataSource
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.724[ INFO] 42128 [] [main:6379] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：7 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.730[ INFO] 42128 [] [main:6385] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.735[ INFO] 42128 [] [main:6390] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.740[ INFO] 42128 [] [main:6395] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.746[ INFO] 42128 [] [main:6401] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.750[ INFO] 42128 [] [main:6405] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.755[ INFO] 42128 [] [main:6410] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.759[ INFO] 42128 [] [main:6414] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.763[ INFO] 42128 [] [main:6418] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.767[ INFO] 42128 [] [main:6422] [p6spy.logSQL:60] 租户参数：tenantId: null
+用户参数：uid: null
+消耗时间：0 ms, 执行时间 2026-04-12 14:45:01
+数据源: jdbc:p6spy:mysql://127.0.0.1:3306/luohuo_dev?serverTimezone=Asia/Shanghai&characterEncoding=utf8&useUnicode=true&useSSL=false&autoReconnect=true&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+执行的SQL：SELECT 'x'
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:01.771[ INFO] 42128 [] [main:6426] [com.alibaba.druid.pool.DruidDataSource.init:673] {dataSource-1} inited
+[yakka-gateway-server:18760:] 2026-04-12 14:45:02.746[ INFO] 42128 [] [main:7401] [org.redisson.Version.logVersion:43] Redisson 3.50.0
+[yakka-gateway-server:18760:] 2026-04-12 14:45:02.804[ERROR] 42128 [] [main:7459] [i.n.resolver.dns.DnsServerAddressStreamProviders.<clinit>:79] Unable to load io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'. Use DEBUG level to see the full stack: java.lang.UnsatisfiedLinkError: failed to load the required native library
+[yakka-gateway-server:18760:] 2026-04-12 14:45:02.912[ INFO] 42128 [] [redisson-netty-3-5:7567] [org.redisson.connection.ConnectionsHolder.lambda$initConnections$1:132] 1 connections initialized for 127.0.0.1/127.0.0.1:6379
+[yakka-gateway-server:18760:] 2026-04-12 14:45:02.969[ INFO] 42128 [] [redisson-netty-3-19:7624] [org.redisson.connection.ConnectionsHolder.lambda$initConnections$1:132] 24 connections initialized for 127.0.0.1/127.0.0.1:6379
+[yakka-gateway-server:18760:] 2026-04-12 14:45:03.168[ WARN] 42128 [] [main:7823] [com.yakka.basic.cache.RedisAutoConfigure.cacheOps:118] 检查到缓存采用了 Redis模式
+[yakka-gateway-server:18760:] 2026-04-12 14:45:04.699[ INFO] 42128 [] [main:9354] [c.yakka.flex.common.config.CommonAutoConfiguration.init:43] 检查到配置文件中：yakka.system.cachePrefix=yakka
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.138[ INFO] 42128 [] [main:9793] [c.baidu.fsg.uid.worker.DisposableWorkerIdAssigner.assignWorkerId:64] Add worker node:WorkerNodeEntity[created=Sun Apr 12 14:45:04 CST 2026,hostName=2409:8a15:1e23:c130:70f5:5eba:9258:ee9b%en0,id=1198,launchDate=Sun Apr 12 14:45:04 CST 2026,modified=Sun Apr 12 14:45:04 CST 2026,port=1775976304872-90216,type=2]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.141[ INFO] 42128 [] [main:9796] [com.baidu.fsg.uid.impl.DefaultUidGenerator.afterPropertiesSet:115] Initialized bits(1, 41, 13, 9) for workerID:1198
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.392[ INFO] 42128 [] [main:10047] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [After]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Before]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Between]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Cookie]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Header]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Host]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Method]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Path]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Query]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [ReadBody]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.393[ INFO] 42128 [] [main:10048] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [RemoteAddr]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.394[ INFO] 42128 [] [main:10049] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.394[ INFO] 42128 [] [main:10049] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [Weight]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.394[ INFO] 42128 [] [main:10049] [o.s.c.gateway.route.RouteDefinitionRouteLocator.lambda$initFactories$1:89] Loaded RoutePredicateFactory [CloudFoundryRouteService]
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.478[ INFO] 42128 [] [main:10133] [c.a.c.s.gateway.scg.SentinelSCGAutoConfiguration.sentinelGatewayFilter:143] [Sentinel SpringCloudGateway] register SentinelGatewayFilter with order: -2147483648
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.810[ INFO] 42128 [] [main:10465] [o.s.b.actuate.endpoint.web.EndpointLinksResolver.<init>:60] Exposing 21 endpoints beneath base path '/actuator'
+[yakka-gateway-server:18760:] 2026-04-12 14:45:05.896[ INFO] 42128 [] [main:10551] [c.a.c.s.gateway.scg.SentinelSCGAutoConfiguration.sentinelGatewayBlockExceptionHandler:133] [Sentinel SpringCloudGateway] register SentinelGatewayBlockExceptionHandler
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.178[ WARN] 42128 [] [main:10833] [o.s.b.a.freemarker.FreeMarkerAutoConfiguration.checkTemplateLocationExists:66] Cannot find template location: [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.check-template-location=false)
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.358[ INFO] 42128 [] [main:11013] [o.s.boot.web.embedded.netty.NettyWebServer.start:126] Netty started on port 18760 (http)
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.371[ INFO] 42128 [] [main:11026] [c.a.n.p.auth.spi.client.ClientAuthPluginManager.init:56] [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.371[ INFO] 42128 [] [main:11026] [c.a.n.p.auth.spi.client.ClientAuthPluginManager.init:56] [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.512[ INFO] 42128 [] [main:11167] [c.a.cloud.nacos.registry.NacosServiceRegistry.register:76] nacos registry, DEFAULT_GROUP yakka-gateway-server 127.0.0.1:18760 register finished
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.584[ INFO] 42128 [] [main:11239] [c.a.c.n.discovery.NacosDiscoveryHeartBeatPublisher.start:66] Start nacos heartBeat task scheduler.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.603[ INFO] 42128 [] [main:11258] [com.yakka.flex.GatewayServerApplication.logStarted:59] Started GatewayServerApplication in 10.039 seconds (process running for 11.525)
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.611[ INFO] 42128 [] [main:11266] [c.a.cloud.nacos.refresh.NacosContextRefresher.registerNacosListener:140] [Nacos Config] Listening config: dataId=yakka-gateway-server-dev.yml, group=DEFAULT_GROUP
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.611[ INFO] 42128 [] [main:11266] [c.a.cloud.nacos.refresh.NacosContextRefresher.registerNacosListener:140] [Nacos Config] Listening config: dataId=yakka-gateway-server, group=DEFAULT_GROUP
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.612[ INFO] 42128 [] [main:11267] [c.a.cloud.nacos.refresh.NacosContextRefresher.registerNacosListener:140] [Nacos Config] Listening config: dataId=common.yml, group=DEFAULT_GROUP
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.612[ INFO] 42128 [] [main:11267] [c.a.cloud.nacos.refresh.NacosContextRefresher.registerNacosListener:140] [Nacos Config] Listening config: dataId=mysql.yml, group=DEFAULT_GROUP
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.612[ INFO] 42128 [] [main:11267] [c.a.cloud.nacos.refresh.NacosContextRefresher.registerNacosListener:140] [Nacos Config] Listening config: dataId=yakka-gateway-server.yml, group=DEFAULT_GROUP
+[yakka-gateway-server:18760:] 2026-04-12 14:45:06.615[ INFO] 42128 [] [main:11270] [com.yakka.flex.common.ServerApplication.start:33] 
+----------------------------------------------------------
+应用 'yakka-gateway-server' 启动成功， JDK版本号：17.0.9 ！
+knife4j文档（支持gateway服务聚合文档）: http://127.0.0.1:18760/api/doc.html
+swagger原始文档（不支持gateway服务聚合文档）：http://127.0.0.1:18760/api/swagger-ui.html
+数据库监控（可用于排查数据源是否链接成功）:   http://127.0.0.1:18760/druid
+当前环境变量：dev 日志路径：./logs
+----------------------------------------------------------
+
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.885[ INFO] 42128 [] [Thread-2:36540] [c.alibaba.nacos.common.executor.ThreadPoolManager.lambda$static$0:54] [ThreadPoolManager] Start destroying ThreadPool
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.886[ INFO] 42128 [] [Thread-22:36541] [c.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:102] [HttpClientBeanHolder] Start destroying common HttpClient
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.885[ INFO] 42128 [] [Thread-24:36540] [com.alibaba.nacos.common.notify.NotifyCenter.shutdown:134] [NotifyCenter] Start destroying Publisher
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.886[ INFO] 42128 [] [Thread-24:36541] [com.alibaba.nacos.common.notify.NotifyCenter.shutdown:151] [NotifyCenter] Completed destruction of Publisher
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.886[ INFO] 42128 [] [Thread-2:36541] [c.alibaba.nacos.common.executor.ThreadPoolManager.lambda$static$0:56] [ThreadPoolManager] Completed destruction of ThreadPool
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.887[ INFO] 42128 [] [Thread-22:36542] [c.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:111] [HttpClientBeanHolder] Completed destruction of HttpClient
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.890[ INFO] 42128 [] [SpringApplicationShutdownHook:36545] [o.s.boot.web.embedded.netty.GracefulShutdown.shutDownGracefully:53] Commencing graceful shutdown. Waiting for active requests to complete
+[yakka-gateway-server:18760:] 2026-04-12 14:45:31.892[ INFO] 42128 [] [netty-shutdown:36547] [o.s.boot.web.embedded.netty.GracefulShutdown.doShutdown:62] Graceful shutdown complete
+[yakka-gateway-server:18760:] 2026-04-12 14:45:33.978[ INFO] 42128 [] [SpringApplicationShutdownHook:38633] [c.a.cloud.nacos.registry.NacosServiceRegistry.deregister:95] De-registering from Nacos Server now...
+[yakka-gateway-server:18760:] 2026-04-12 14:45:33.987[ INFO] 42128 [] [SpringApplicationShutdownHook:38642] [c.a.cloud.nacos.registry.NacosServiceRegistry.deregister:115] De-registration finished.
+[yakka-gateway-server:18760:] 2026-04-12 14:45:34.022[ INFO] 42128 [] [SpringApplicationShutdownHook:38677] [com.alibaba.druid.pool.DruidDataSource.close:1880] {dataSource-1} closing ...
+[yakka-gateway-server:18760:] 2026-04-12 14:45:34.027[ INFO] 42128 [] [SpringApplicationShutdownHook:38682] [com.alibaba.druid.pool.DruidDataSource.close:1953] {dataSource-1} closed
