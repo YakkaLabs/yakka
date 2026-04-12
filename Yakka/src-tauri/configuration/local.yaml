@@ -1,0 +1,15 @@
+# src-tauri/configuration/local.yaml
+
+database:
+  sqlite_file: db.sqlite
+backend:
+  base_url: http://127.0.0.1:18760
+  ws_url: ws://127.0.0.1:18760/ws/ws
+
+youdao:
+  app_key: ''
+  app_secret: ''
+tencent:
+  api_key: ''
+  secret_id: ''
+  map_key: ''
