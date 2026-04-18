@@ -1,1 +1,19 @@
-/.idea/
+# 忽略所有层级、所有子目录下的 target 文件夹
+**/target/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# 日志
+logs/
+*.log
+tmp/
+.DS_Store
