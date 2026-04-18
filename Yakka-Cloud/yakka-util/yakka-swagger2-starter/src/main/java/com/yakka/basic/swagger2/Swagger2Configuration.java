@@ -3,6 +3,7 @@ package com.yakka.basic.swagger2;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 import static com.yakka.basic.swagger2.Swagger2Configuration.TRUE;
 
@@ -15,6 +16,8 @@ import static com.yakka.basic.swagger2.Swagger2Configuration.TRUE;
  * @author 乾乾
  * @date 2018/11/18 9:20
  */
+// Modify by JaredJia 20260401
+@Configuration
 @ConditionalOnProperty(prefix = "knife4j", name = "enable", havingValue = TRUE, matchIfMissing = true)
 public class Swagger2Configuration {
 

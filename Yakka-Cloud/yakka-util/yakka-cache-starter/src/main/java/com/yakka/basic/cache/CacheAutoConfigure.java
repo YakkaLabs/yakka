@@ -4,6 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.cache.interceptor.KeyGenerator;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import com.yakka.basic.utils.StrPool;
 
@@ -13,6 +14,8 @@ import com.yakka.basic.utils.StrPool;
  * @author 乾乾
  * @date 2019/08/07
  */
+// Modify by JaredJia 20260401
+@Configuration
 @Slf4j
 @EnableCaching
 @Import({

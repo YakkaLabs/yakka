@@ -7,6 +7,7 @@ import org.hibernate.validator.HibernateValidator;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.validation.beanvalidation.MethodValidationPostProcessor;
 import com.yakka.basic.validator.component.FormValidatorController;
 import com.yakka.basic.validator.component.extract.DefaultConstraintExtractImpl;
@@ -19,6 +20,8 @@ import com.yakka.basic.validator.utils.AssertUtil;
  * @author 乾乾
  * @date 2019/07/14
  */
+// Modify by JaredJia 20260401
+@Configuration
 @ComponentScan(basePackageClasses = FormValidatorController.class)
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.SERVLET)
 public class ValidatorConfiguration {

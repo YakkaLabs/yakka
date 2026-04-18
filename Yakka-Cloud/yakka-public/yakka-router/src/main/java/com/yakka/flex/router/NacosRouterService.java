@@ -10,7 +10,6 @@ import com.yakka.basic.exception.BizException;
 import com.yakka.basic.model.cache.CacheHashKey;
 import com.yakka.basic.model.cache.CacheKey;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.Cursor;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ScanOptions;
@@ -29,7 +28,6 @@ public class NacosRouterService {
 	private final NamingService namingService;
 	RedisTemplate<String, Object> redisTemplate;
 
-	@Autowired
 	public NacosRouterService(
 			NacosServiceManager nacosServiceManager,
 			NacosDiscoveryProperties discoveryProperties,

@@ -12,6 +12,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.cloud.openfeign.YakkaFeignClientsRegistrar;
 import org.springframework.cloud.openfeign.support.SpringEncoder;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
@@ -26,6 +27,8 @@ import java.util.List;
  * @author 乾乾
  * @date 2019/07/25
  */
+// Modify by JaredJia 20260401
+@Configuration
 @Import(YakkaFeignClientsRegistrar.class)
 @ConditionalOnClass(Feign.class)
 @AutoConfigureAfter(EnableFeignClients.class)

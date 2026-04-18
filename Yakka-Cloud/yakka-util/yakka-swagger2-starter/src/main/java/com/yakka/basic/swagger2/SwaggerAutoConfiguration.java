@@ -14,6 +14,7 @@ import org.springdoc.core.properties.SpringDocConfigProperties;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 import com.yakka.basic.swagger2.properties.SwaggerProperties;
 
@@ -25,6 +26,8 @@ import java.util.List;
  * @author 乾乾
  * @date 2018/11/18 9:22
  */
+// Modify by JaredJia 20260401
+@Configuration
 @Import({
         Swagger2Configuration.class
 })

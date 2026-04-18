@@ -9,6 +9,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.cache.CacheManager;
 import org.springframework.cache.caffeine.CaffeineCacheManager;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import com.yakka.basic.cache.lock.CaffeineDistributedLock;
 import com.yakka.basic.cache.lock.DistributedLock;
@@ -24,6 +25,8 @@ import com.yakka.basic.cache.repository.impl.CaffeineOpsImpl;
  * @author 乾乾
  * @date 2019/08/07
  */
+// Modify by JaredJia 20260401
+@Configuration
 @Slf4j
 @ConditionalOnProperty(prefix = CustomCacheProperties.PREFIX, name = "type", havingValue = "CAFFEINE")
 @EnableConfigurationProperties({CustomCacheProperties.class})

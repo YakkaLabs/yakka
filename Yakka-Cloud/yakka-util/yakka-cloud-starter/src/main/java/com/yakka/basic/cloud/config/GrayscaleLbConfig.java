@@ -5,6 +5,7 @@ import org.springframework.cloud.loadbalancer.core.ReactorLoadBalancer;
 import org.springframework.cloud.loadbalancer.core.ServiceInstanceListSupplier;
 import org.springframework.cloud.loadbalancer.support.LoadBalancerClientFactory;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
 import com.yakka.basic.cloud.rule.GrayscaleVersionRoundRobinLoadBalancer;
 import com.yakka.basic.utils.StrPool;
@@ -17,6 +18,8 @@ import com.yakka.basic.utils.StrPool;
  * @date 2021/7/13 11:36 上午
  * @create [2021/7/13 11:36 上午 ] [tangyh] [初始创建]
  */
+// Modify by JaredJia 20260401
+@Configuration
 public class GrayscaleLbConfig {
 
     @Bean

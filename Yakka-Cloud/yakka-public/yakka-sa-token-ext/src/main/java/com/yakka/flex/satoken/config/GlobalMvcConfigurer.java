@@ -1,6 +1,8 @@
 package com.yakka.flex.satoken.config;
 
 import lombok.RequiredArgsConstructor;
+
+import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.yakka.flex.common.properties.SystemProperties;
@@ -13,6 +15,8 @@ import com.yakka.flex.satoken.interceptor.NotAllowWriteInterceptor;
  * @author 乾乾
  * @date 2018/8/25
  */
+// Modify by JaredJia 20260401
+@Configuration
 @RequiredArgsConstructor
 public class GlobalMvcConfigurer implements WebMvcConfigurer {
 	private final SystemProperties systemProperties;

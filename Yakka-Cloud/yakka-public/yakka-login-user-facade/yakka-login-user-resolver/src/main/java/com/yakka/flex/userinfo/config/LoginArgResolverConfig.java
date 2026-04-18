@@ -1,6 +1,8 @@
 package com.yakka.flex.userinfo.config;
 
 import lombok.AllArgsConstructor;
+
+import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.yakka.flex.userinfo.resolver.ContextArgumentResolver;
@@ -13,6 +15,8 @@ import java.util.List;
  * @author 乾乾
  * @date 2018/8/25
  */
+// Modify by JaredJia 20260401
+@Configuration
 @AllArgsConstructor
 public class LoginArgResolverConfig implements WebMvcConfigurer {
 

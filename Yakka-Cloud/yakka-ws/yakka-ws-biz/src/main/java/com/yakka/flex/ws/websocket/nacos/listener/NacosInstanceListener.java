@@ -1,7 +1,5 @@
 package com.yakka.flex.ws.websocket.nacos.listener;
 
-import com.alibaba.cloud.nacos.NacosDiscoveryProperties;
-import com.alibaba.cloud.nacos.NacosServiceManager;
 import com.alibaba.nacos.api.exception.NacosException;
 import com.alibaba.nacos.api.naming.NamingService;
 import com.alibaba.nacos.api.naming.listener.NamingEvent;
@@ -10,7 +8,6 @@ import com.yakka.basic.mq.redis.core.RedisMQTemplate;
 import com.yakka.flex.ws.websocket.entity.NodeDownMessage;
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
@@ -27,23 +24,21 @@ import java.util.stream.Collectors;
 @Component
 public class NacosInstanceListener {
     private final NamingService namingService;
-	private final RedisMQTemplate redisMQTemplate;
-	private final String nodeId;
+    private final RedisMQTemplate redisMQTemplate;
+    private final String nodeId;
 
-	@Autowired
-	public NacosInstanceListener(
-			NacosServiceManager nacosServiceManager,
-			NacosDiscoveryProperties discoveryProperties,
-			@Value("${yakka.node-id}") String nodeId,
-			RedisMQTemplate redisMQTemplate
-	) {
-		this.nodeId = nodeId;
-		this.namingService = nacosServiceManager.getNamingService(discoveryProperties.getNacosProperties());
-		this.redisMQTemplate = redisMQTemplate;
-	}
+    public NacosInstanceListener(
+            NamingService namingService,
+            @Value("${yakka.node-id}") String nodeId,
+            RedisMQTemplate redisMQTemplate
+    ) {
+        this.namingService = namingService;
+        this.nodeId = nodeId;
+        this.redisMQTemplate = redisMQTemplate;
+    }
 
 
-	@PostConstruct
+    @PostConstruct
     public void init() {
         // 订阅服务变更
         try {
@@ -57,28 +52,28 @@ public class NacosInstanceListener {
         }
     }
 
-	/**
-	 * 处理服务实例变化事件
-	 * 检测下线节点，并发送节点下线通知。
-	 * @param instances 所有实例
-	 */
-	private void handleInstanceChange(List<Instance> instances) {
-		// 检测下线节点
-		Set<String> activeNodes = instances.stream()
-				.filter(Instance::isHealthy)
-				.map(i -> i.getMetadata().get("nodeId"))
-				.collect(Collectors.toSet());
+    /**
+     * 处理服务实例变化事件
+     * 检测下线节点，并发送节点下线通知。
+     * @param instances 所有实例
+     */
+    private void handleInstanceChange(List<Instance> instances) {
+        // 检测下线节点
+        Set<String> activeNodes = instances.stream()
+                .filter(Instance::isHealthy)
+                .map(i -> i.getMetadata().get("nodeId"))
+                .collect(Collectors.toSet());
 
-		Set<String> allNodes = instances.stream()
-				.map(i -> i.getMetadata().get("nodeId"))
-				.collect(Collectors.toSet());
+        Set<String> allNodes = instances.stream()
+                .map(i -> i.getMetadata().get("nodeId"))
+                .collect(Collectors.toSet());
 
-		allNodes.removeAll(activeNodes);
-		allNodes.stream()
-				.filter(id -> !id.equals(this.nodeId)).forEach(nodeId -> {
-			redisMQTemplate.send(new NodeDownMessage(nodeId));
-			log.warn("节点下线通知已发送: {}", nodeId);
-		});
-	}
+        allNodes.removeAll(activeNodes);
+        allNodes.stream()
+                .filter(id -> !id.equals(this.nodeId)).forEach(nodeId -> {
+            redisMQTemplate.send(new NodeDownMessage(nodeId));
+            log.warn("节点下线通知已发送: {}", nodeId);
+        });
+    }
 
 }

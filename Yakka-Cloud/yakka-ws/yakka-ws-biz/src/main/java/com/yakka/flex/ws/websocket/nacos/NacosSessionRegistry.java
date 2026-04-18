@@ -10,20 +10,16 @@ import com.alibaba.nacos.client.naming.utils.CollectionUtils;
 import com.yakka.basic.cache.repository.CachePlusOps;
 import com.yakka.basic.model.cache.CacheHashKey;
 import com.yakka.basic.model.cache.CacheKey;
-import com.yakka.flex.common.cache.PresenceCacheKeyBuilder;
 import com.yakka.flex.router.RouterCacheKeyBuilder;
 import com.yakka.flex.ws.websocket.SessionManager;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.data.redis.core.Cursor;
-import org.springframework.data.redis.core.RedisOperations;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ScanOptions;
-import org.springframework.data.redis.core.SessionCallback;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
@@ -69,7 +65,6 @@ public class NacosSessionRegistry {
 
 	private int nodePort;
 
-	@Autowired
 	public NacosSessionRegistry(NacosServiceManager nacosServiceManager, RedisTemplate<String, Object> redisTemplate,
 			@Value("${yakka.node-id}") String nodeId, @Value("${server.port}") int nodePort, NacosDiscoveryProperties discoveryProperties) {
 		this.redisTemplate = redisTemplate;

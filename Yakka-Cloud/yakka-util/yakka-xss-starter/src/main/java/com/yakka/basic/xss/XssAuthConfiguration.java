@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.jackson.Jackson2ObjectMapperBuilde
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
 import com.yakka.basic.xss.converter.XssStringJsonDeserializer;
 import com.yakka.basic.xss.filter.XssFilter;
 import com.yakka.basic.xss.properties.XssProperties;
@@ -23,6 +25,8 @@ import static com.yakka.basic.xss.filter.XssFilter.IGNORE_PATH;
  * @author 乾乾
  * @date 2019/07/25
  */
+// Modified by JaredJia 20260401
+@Configuration
 @AllArgsConstructor
 @EnableConfigurationProperties({XssProperties.class})
 public class XssAuthConfiguration {

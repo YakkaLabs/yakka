@@ -1,5 +1,6 @@
 package com.yakka.basic.swagger2;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
@@ -9,6 +10,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @author 乾乾
  * @date 2020年04月29日14:32:04
  */
+// Modify by JaredJia 20260401
+@Configuration
 public class SwaggerWebMvcConfigurer implements WebMvcConfigurer {
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {

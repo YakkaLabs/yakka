@@ -55,6 +55,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.transaction.support.TransactionTemplate;
 import org.springframework.util.CollectionUtils;
+import org.springframework.validation.annotation.Validated;
+
 import com.yakka.basic.exception.BizException;
 import com.yakka.basic.exception.code.GroupErrorEnum;
 import com.yakka.basic.validator.utils.AssertUtil;
@@ -128,6 +130,8 @@ import static com.yakka.flex.im.domain.enums.ApplyReadStatusEnum.UNREAD;
  * - 聊天消息处理与转发
  * - 用户会话管理、在线状态管理、公告发布与管理
  */
+// Modify by JaredJia 20260401
+@Validated
 @Slf4j
 @Service
 @AllArgsConstructor
