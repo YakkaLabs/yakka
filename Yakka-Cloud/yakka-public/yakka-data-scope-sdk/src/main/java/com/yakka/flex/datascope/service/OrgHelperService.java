@@ -21,7 +21,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/12 9:17 AM
  * @create [2022/4/12 9:17 AM ] [tangyh] [初始创建]
@@ -50,7 +50,7 @@ public class OrgHelperService {
      *
      * @param employeeId 员工ID
      * @return java.lang.Long
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/12 12:33 PM
      * @create [2022/4/12 12:33 PM ] [tangyh] [初始创建]
      */
@@ -67,7 +67,7 @@ public class OrgHelperService {
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/12 12:34 PM
      * @create [2022/4/12 12:34 PM ] [tangyh] [初始创建]
      */
@@ -88,7 +88,7 @@ public class OrgHelperService {
      *
      * @param employeeId employeeId
      * @return java.lang.Long
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/12 12:34 PM
      * @create [2022/4/12 12:34 PM ] [tangyh] [初始创建]
      */
@@ -103,7 +103,7 @@ public class OrgHelperService {
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/12 12:53 PM
      * @create [2022/4/12 12:53 PM ] [tangyh] [初始创建]
      */

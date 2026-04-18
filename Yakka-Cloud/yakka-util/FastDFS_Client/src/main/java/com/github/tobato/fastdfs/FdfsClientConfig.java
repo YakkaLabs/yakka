@@ -8,7 +8,7 @@ import org.springframework.jmx.support.RegistrationPolicy;
 /**
  * 导入FdfsClient配置
  * 
- * @author Jared
+ * @author 乾乾
  *
  */
 @Configuration

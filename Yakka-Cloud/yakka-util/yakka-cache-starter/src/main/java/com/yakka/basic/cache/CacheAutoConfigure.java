@@ -10,7 +10,7 @@ import com.yakka.basic.utils.StrPool;
 /**
  * 缓存配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/08/07
  */
 @Slf4j

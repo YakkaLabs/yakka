@@ -8,7 +8,7 @@ import lombok.*;
 
 /**
  * 用户背包表
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

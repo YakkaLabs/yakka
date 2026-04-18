@@ -12,7 +12,7 @@ import java.io.OutputStream;
 /**
  * 中文gif验证码
  *
- * @author Jared on 2018-07-27 上午 10:08.
+ * @author 乾乾 on 2018-07-27 上午 10:08.
  */
 public class ChineseGifCaptcha extends ChineseCaptchaAbstract {
 

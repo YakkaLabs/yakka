@@ -25,7 +25,7 @@ import java.util.List;
  * 业务附件
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-06-30
  * @create [2021-06-30] [tangyh] [初始创建]
  */
@@ -36,7 +36,7 @@ public interface AppendixService extends SuperManager<Appendix> {
      *
      * @param page     分页数据
      * @param bizTypes 业务类型
-     * @author Jared
+     * @author 乾乾
      * @date 2021/8/28 3:53 下午
      * @create [2021/8/28 3:53 下午 ] [tangyh] [初始创建]
      */
@@ -47,7 +47,7 @@ public interface AppendixService extends SuperManager<Appendix> {
      *
      * @param list     列表数据
      * @param bizTypes 业务类型
-     * @author Jared
+     * @author 乾乾
      * @date 2021/8/28 3:53 下午
      * @create [2021/8/28 3:53 下午 ] [tangyh] [初始创建]
      */

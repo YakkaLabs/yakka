@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 将扫码成功的信息发送给对应的用户,等待授权
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @RocketMQMessageListener(consumerGroup = "user_scan_send_msg_group", topic = "user_scan_send_msg", messageModel = MessageModel.BROADCASTING)

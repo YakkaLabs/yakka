@@ -20,7 +20,7 @@ import java.io.Serializable;
  * 代码生成
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2022-03-01
  */
 @Data
@@ -87,7 +87,7 @@ public class ProjectGeneratorVO implements Serializable {
     /**
      * 中文服务名
      *
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/5 2:34 PM
      * @create [2022/4/5 2:34 PM ] [tangyh] [初始创建]
      * @update [2022/4/5 2:34 PM ] [tangyh] [变更描述]

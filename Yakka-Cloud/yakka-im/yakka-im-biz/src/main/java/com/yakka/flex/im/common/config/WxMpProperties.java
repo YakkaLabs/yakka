@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * wechat mp properties
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @ConfigurationProperties(prefix = "yakka.wx.mp")

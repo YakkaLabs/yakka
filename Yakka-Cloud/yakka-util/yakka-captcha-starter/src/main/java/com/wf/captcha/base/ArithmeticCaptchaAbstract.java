@@ -5,7 +5,7 @@ import com.googlecode.aviator.AviatorEvaluator;
 /**
  * 算术验证码抽象类
  *
- * @author Jared on 2019-08-23 上午 10:08.
+ * @author 乾乾 on 2019-08-23 上午 10:08.
  */
 public abstract class ArithmeticCaptchaAbstract extends Captcha {
     private String arithmeticString;  // 计算公式

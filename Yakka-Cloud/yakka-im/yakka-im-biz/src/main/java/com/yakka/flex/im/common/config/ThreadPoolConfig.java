@@ -14,7 +14,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 自定义线程池配置, 不再实现AsyncConfigurer，底层DefaultAsyncTaskConfig已经做了实现
  *
- * @author Jared
+ * @author 乾乾
  */
 @Configuration
 @EnableAsync

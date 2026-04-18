@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 /**
  * IM在线人员服务 [单个群人员大于10万时需要开启redis分片存储、分片查询]
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Tag(name = "在线服务")

@@ -12,7 +12,7 @@ import java.util.HashSet;
 
 /**
  * 移除群成员
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

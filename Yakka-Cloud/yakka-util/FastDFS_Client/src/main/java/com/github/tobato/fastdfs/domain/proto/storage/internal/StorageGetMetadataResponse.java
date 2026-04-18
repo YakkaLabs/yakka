@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * 列出分组信息执行结果
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageGetMetadataResponse extends FdfsResponse<Set<MetaData>> {
 

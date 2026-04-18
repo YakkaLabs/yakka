@@ -12,7 +12,7 @@ import java.io.Serializable;
 
 /**
  * 公告消息入参
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @SuperBuilder

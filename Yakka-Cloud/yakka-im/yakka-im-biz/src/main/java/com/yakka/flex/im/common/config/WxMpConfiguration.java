@@ -22,7 +22,7 @@ import static me.chanjar.weixin.common.api.WxConsts.XmlMsgType.EVENT;
 /**
  * wechat mp configuration
  *
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Configuration

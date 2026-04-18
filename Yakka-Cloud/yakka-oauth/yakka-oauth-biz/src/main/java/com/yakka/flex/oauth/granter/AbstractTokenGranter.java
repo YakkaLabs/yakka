@@ -80,7 +80,7 @@ import static com.yakka.basic.context.ContextConstants.*;
 /**
  * 验证码TokenGranter
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @RequiredArgsConstructor
@@ -170,7 +170,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param loginParam 登录参数
 	 * @return com.yakka.basic.base.R<com.yakka.flex.oauth.vo.result.LoginResultVO>
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -180,7 +180,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 * 检测客户端
 	 *
 	 * @return com.yakka.basic.base.R<com.yakka.flex.oauth.vo.result.LoginResultVO>
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -204,7 +204,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param loginParam 登录参数
 	 * @return com.yakka.basic.base.R<com.yakka.flex.oauth.vo.result.LoginResultVO>
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -217,7 +217,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param loginParam 登录参数
 	 * @return com.yakka.flex.system.entity.tenant.DefUser
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -229,7 +229,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 * @param loginParam loginParam
 	 * @param user       user
 	 * @return com.yakka.basic.base.R<com.yakka.flex.oauth.vo.result.LoginResultVO>
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -243,7 +243,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param user user
 	 * @return com.yakka.basic.base.R<com.yakka.flex.oauth.vo.result.LoginResultVO>
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -262,7 +262,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param defUser 用户信息
 	 * @return com.yakka.flex.oauth.granter.AbstractTokenGranter.Employee
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:38 PM
 	 * @create [2022/10/5 12:38 PM ] [tangyh] [初始创建]
 	 */
@@ -292,7 +292,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 *
 	 * @param defUser 员工信息
 	 * @return com.yakka.flex.oauth.granter.AbstractTokenGranter.Org
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2022/10/5 12:40 PM
 	 * @create [2022/10/5 12:40 PM ] [tangyh] [初始创建]
 	 */
@@ -384,7 +384,7 @@ public abstract class AbstractTokenGranter implements TokenGranter {
 	 * @param deviceType   登录设备
 	 * @param clientId   设备指纹
 	 * @return com.yakka.flex.oauth.vo.result.LoginResultVO
-	 * @author Jared
+	 * @author 乾乾
 	 */
 	protected LoginResultVO buildResult(Long uid, DefUser userInfo, Org org, String deviceType, String clientId) {
 		// 0. 处理同设备登录用户

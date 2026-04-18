@@ -1,7 +1,7 @@
 package com.yakka.flex.im.core.frequencyControl.digist;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public class FixWindow {
     public Integer count;  //当前窗口累计请求数

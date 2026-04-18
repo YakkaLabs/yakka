@@ -52,8 +52,8 @@ import static com.yakka.basic.context.ContextConstants.*;
 /**
  * RefreshTokenGranter
  *
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  * @date 2020年03月31日10:23:53
  */
 @Component

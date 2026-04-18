@@ -4,7 +4,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class WSMsgRecall implements Serializable {

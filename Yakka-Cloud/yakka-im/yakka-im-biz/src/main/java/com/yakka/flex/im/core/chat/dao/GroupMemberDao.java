@@ -30,7 +30,7 @@ import java.util.stream.Collectors;
  * 群成员表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class GroupMemberDao extends ServiceImpl<GroupMemberMapper, GroupMember> {

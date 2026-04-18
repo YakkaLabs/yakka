@@ -33,7 +33,7 @@ public interface DefTenantApplicationRelManager extends SuperManager<DefTenantAp
      * 删除指定租户的应用
      *
      * @param ids ids
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:54 PM
      * @create [2022/10/28 4:54 PM ] [tangyh] [初始创建]
      */

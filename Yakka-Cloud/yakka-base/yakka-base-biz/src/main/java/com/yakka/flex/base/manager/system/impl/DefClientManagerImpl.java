@@ -21,7 +21,7 @@ import com.yakka.flex.common.cache.tenant.system.DefClientSecretCacheKeyBuilder;
  * 客户端
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-13
  * @create [2021-10-13] [zuihou] [代码生成器生成]
  */

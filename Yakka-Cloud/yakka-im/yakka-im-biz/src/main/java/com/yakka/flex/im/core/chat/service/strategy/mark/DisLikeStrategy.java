@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 不满标记策略类
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class DisLikeStrategy extends AbstractMsgMarkStrategy {

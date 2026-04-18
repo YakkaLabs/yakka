@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * common return
- * @author Jared 2015-12-4 16:32:31
+ * @author 乾乾 2015-12-4 16:32:31
  * @param <T>
  */
 public class ReturnT<T> implements Serializable {

@@ -9,7 +9,7 @@ import com.yakka.flex.base.entity.system.BaseRoleResourceRel;
  * 角色的资源
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseRoleResourceRelService extends SuperService<Long, BaseRoleResourceRel> {

@@ -11,7 +11,7 @@ import java.util.List;
  * 角色
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
@@ -20,7 +20,7 @@ public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
      *
      * @param employeeId employeeId
      * @return java.util.List<com.yakka.flex.base.entity.system.BaseRole>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/27 3:21 PM
      * @create [2022/10/27 3:21 PM ] [tangyh] [初始创建]
      */
@@ -31,7 +31,7 @@ public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
      *
      * @param employeeId employeeId
      * @return java.util.List<com.yakka.flex.base.entity.system.BaseRole>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/27 3:21 PM
      * @create [2022/10/27 3:21 PM ] [tangyh] [初始创建]
      */
@@ -51,7 +51,7 @@ public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
      *
      * @param roleIds roleIds
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/12/28 12:22 上午
      * @create [2021/12/28 12:22 上午 ] [tangyh] [初始创建]
      */
@@ -63,7 +63,7 @@ public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
      * @param employeeId    员工ID
      * @param applicationId 应用ID
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 5:26 PM
      * @create [2022/10/20 5:26 PM ] [tangyh] [初始创建]
      */
@@ -75,7 +75,7 @@ public interface BaseRoleManager extends SuperCacheManager<BaseRole> {
      * @param employeeId employeeId
      * @param codes      codes
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/24 2:49 PM
      * @create [2022/4/24 2:49 PM ] [tangyh] [初始创建]
      */

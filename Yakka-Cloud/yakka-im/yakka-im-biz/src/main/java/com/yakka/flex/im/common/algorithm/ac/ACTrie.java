@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 /**
  * aho-corasick算法（又称AC自动机算法）
  *
- * @author Jared
+ * @author 乾乾
  */
 @NotThreadSafe
 public class ACTrie {

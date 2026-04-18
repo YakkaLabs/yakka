@@ -12,7 +12,7 @@ import java.util.List;
  * 用户标签关联表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class UserTargetRelDao extends ServiceImpl<UserTargetRelMapper, UserTargetRel> {

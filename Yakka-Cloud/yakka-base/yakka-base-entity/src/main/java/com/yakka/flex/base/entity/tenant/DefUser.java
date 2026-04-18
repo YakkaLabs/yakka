@@ -25,7 +25,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 当systemType = 3时, uid关联system服务中的 user的id [IM系统登录]
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2021-10-09
  */
 @Data

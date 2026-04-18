@@ -21,7 +21,7 @@ import com.yakka.flex.msg.vo.update.ExtendInterfaceLogUpdateVO;
  * 接口执行日志
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-07-09 23:58:59
  * @create [2022-07-09 23:58:59] [zuihou] [代码生成器生成]
  */

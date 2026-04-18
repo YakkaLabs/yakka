@@ -12,7 +12,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * glue factory, product class/object by name
  *
- * @author Jared 2016-1-2 20:02:27
+ * @author 乾乾 2016-1-2 20:02:27
  */
 public class GlueFactory {
 

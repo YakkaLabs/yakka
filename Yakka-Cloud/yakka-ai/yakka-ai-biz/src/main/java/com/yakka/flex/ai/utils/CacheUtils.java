@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 /**
  * Cache 工具类
  *
- * @author Jared
+ * @author 乾乾
  */
 public class CacheUtils {
 

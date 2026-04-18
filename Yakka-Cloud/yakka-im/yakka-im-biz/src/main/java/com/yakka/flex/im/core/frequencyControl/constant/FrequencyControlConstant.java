@@ -1,7 +1,7 @@
 package com.yakka.flex.im.core.frequencyControl.constant;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public interface FrequencyControlConstant {
 

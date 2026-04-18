@@ -3,7 +3,7 @@ package com.yakka.flex.generator.type;
 import com.yakka.basic.base.entity.TreeEntity;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2022/3/13 21:46
  */
 public class GenConstants {

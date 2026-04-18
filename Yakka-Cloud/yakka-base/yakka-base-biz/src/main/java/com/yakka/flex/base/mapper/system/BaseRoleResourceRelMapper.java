@@ -13,7 +13,7 @@ import java.util.List;
  * 角色的资源
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 @Repository
@@ -35,7 +35,7 @@ public interface BaseRoleResourceRelMapper extends SuperMapper<BaseRoleResourceR
      * @param applicationId applicationId
      * @param roleId        roleId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 4:06 PM
      * @create [2022/10/20 4:06 PM ] [tangyh] [初始创建]
      */
@@ -47,7 +47,7 @@ public interface BaseRoleResourceRelMapper extends SuperMapper<BaseRoleResourceR
      * @param applicationId 应用ID
      * @param employeeId    员工ID
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2023/5/17 5:34 PM
      * @create [2023/5/17 5:34 PM ] [tangyh] [初始创建]
      */

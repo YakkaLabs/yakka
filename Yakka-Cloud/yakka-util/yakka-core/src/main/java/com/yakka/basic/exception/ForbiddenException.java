@@ -6,7 +6,7 @@ import com.yakka.basic.exception.code.ResponseEnum;
 /**
  * 403  禁止访问
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  */
 public class ForbiddenException extends BaseUncheckedException {

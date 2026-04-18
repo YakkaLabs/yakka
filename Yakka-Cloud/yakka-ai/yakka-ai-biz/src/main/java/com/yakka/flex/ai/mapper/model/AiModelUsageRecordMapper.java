@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 /**
  * AI 公开模型使用记录 Mapper
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface AiModelUsageRecordMapper extends BaseMapperX<AiModelUsageRecordDO> {

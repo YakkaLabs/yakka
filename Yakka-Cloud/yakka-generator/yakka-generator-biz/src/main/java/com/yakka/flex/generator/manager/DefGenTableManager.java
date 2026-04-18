@@ -12,7 +12,7 @@ import javax.sql.DataSource;
  * 代码生成
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 public interface DefGenTableManager extends SuperManager<DefGenTable> {
@@ -21,7 +21,7 @@ public interface DefGenTableManager extends SuperManager<DefGenTable> {
      *
      * @param dsId dsId
      * @return javax.sql.DataSource
-     * @author Jared
+     * @author 乾乾
      * @date 2022/3/26 11:25 AM
      * @create [2022/3/26 11:25 AM ] [tangyh] [初始创建]
      * @update [2022/3/26 11:25 AM ] [tangyh] [变更描述]
@@ -32,7 +32,7 @@ public interface DefGenTableManager extends SuperManager<DefGenTable> {
      * 获取数据库类型
      *
      * @return com.baomidou.mybatisplus.annotation.DbType
-     * @author Jared
+     * @author 乾乾
      * @date 2022/8/17 9:02 PM
      * @create [2022/8/17 9:02 PM ] [tangyh] [初始创建]
      */

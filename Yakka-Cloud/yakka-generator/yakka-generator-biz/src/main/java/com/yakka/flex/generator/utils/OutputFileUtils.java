@@ -24,7 +24,7 @@ import static com.yakka.flex.generator.utils.inner.PackageUtils.getName;
 /**
  * 输出文件工具类
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/8 12:37 PM
  * @create [2022/4/8 12:37 PM ] [tangyh] [初始创建]
@@ -41,7 +41,7 @@ public class OutputFileUtils {
      * @param enumName        enumName
      * @param template        template
      * @return java.lang.String
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/8 12:45 PM
      * @create [2022/4/8 12:45 PM ] [tangyh] [初始创建]
      */
@@ -67,7 +67,7 @@ public class OutputFileUtils {
      * @param enumName        enumName
      * @param template        template
      * @return java.lang.String
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/8 12:45 PM
      * @create [2022/4/8 12:45 PM ] [tangyh] [初始创建]
      */
@@ -245,7 +245,7 @@ public class OutputFileUtils {
      * @param isAbsolute      是否绝对地址
      * @param enumName        enumName
      * @return java.lang.String
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/8 12:47 PM
      * @create [2022/4/8 12:47 PM ] [tangyh] [初始创建]
      */

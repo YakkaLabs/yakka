@@ -38,7 +38,7 @@ import java.time.Duration;
 /**
  * 二维码扫码登录
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025年08月08日10:23:53
  */
 @Component

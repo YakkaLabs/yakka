@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 字典数据 Response DTO
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class DictDataRespDTO {

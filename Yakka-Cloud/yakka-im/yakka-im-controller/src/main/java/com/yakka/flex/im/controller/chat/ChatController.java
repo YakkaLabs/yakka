@@ -31,7 +31,7 @@ import java.util.Set;
 
 /**
  * 群聊相关接口
- * @author Jared
+ * @author 乾乾
  */
 @RestController
 @RequestMapping("/chat")

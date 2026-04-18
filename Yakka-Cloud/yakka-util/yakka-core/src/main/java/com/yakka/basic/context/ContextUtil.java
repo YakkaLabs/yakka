@@ -14,7 +14,7 @@ import java.util.concurrent.Executor;
 /**
  * 获取当前线程变量中的 用户id、用户昵称、租户编码、用户登录终端、用户登录系统、账号等信息
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025-06-10 16:52
  */
 public final class ContextUtil {

@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.exception;
 /**
  * 不支持的图片格式
  * 
- * @author Jared
+ * @author 乾乾
  *
  */
 public class FdfsUnsupportImageTypeException extends FdfsException {

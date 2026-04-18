@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * 群异常码
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Getter

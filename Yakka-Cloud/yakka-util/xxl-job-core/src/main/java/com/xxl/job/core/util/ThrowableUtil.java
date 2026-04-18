@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 
 /**
- * @author Jared 2018-10-20 20:07:26
+ * @author 乾乾 2018-10-20 20:07:26
  */
 public class ThrowableUtil {
 

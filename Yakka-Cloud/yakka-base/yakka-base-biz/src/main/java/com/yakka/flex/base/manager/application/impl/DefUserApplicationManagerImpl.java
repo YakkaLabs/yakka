@@ -14,7 +14,7 @@ import com.yakka.flex.base.mapper.application.DefUserApplicationMapper;
  * 用户的默认应用
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-06
  * @create [2022-03-06] [zuihou] [代码生成器生成]
  */

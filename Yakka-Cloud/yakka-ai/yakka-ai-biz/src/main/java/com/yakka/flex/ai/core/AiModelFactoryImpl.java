@@ -127,7 +127,7 @@ import static org.springframework.ai.retry.RetryUtils.DEFAULT_RETRY_TEMPLATE;
 /**
  * AI Model 模型工厂的实现类
  *
- * @author Jared
+ * @author 乾乾
  */
 public class AiModelFactoryImpl implements AiModelFactory {
     @Override

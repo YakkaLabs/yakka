@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
 /**
  * 传输参数定义标签
  *
- * @author Jared
+ * @author 乾乾
  */
 @Documented
 @Target(ElementType.FIELD)

@@ -32,7 +32,7 @@ import java.util.stream.Collectors;
  * 为了解决： https://github.com/xiaoymin/knife4j/issues/865#issuecomment-2568635671
  * 等knife4j 升级后，可以注释此类
  *
- * @author Jared
+ * @author 乾乾
  * @since 2025/3/28 15:39
  */
 @Slf4j

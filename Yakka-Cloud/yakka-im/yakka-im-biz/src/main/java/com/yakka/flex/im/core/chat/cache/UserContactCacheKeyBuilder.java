@@ -10,7 +10,7 @@ import java.time.Duration;
 
 /**
  * 用户所有会话信息的缓存
- * @author Jared
+ * @author 乾乾
  * @date 2025-08-27 10:45 上午
  */
 public class UserContactCacheKeyBuilder implements CacheKeyBuilder {

@@ -12,7 +12,7 @@ import java.time.Duration;
  * 系统配置 KEY
  * <p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2024/04/20 6:45 下午
  */
 public class ConfigCacheKeyBuilder implements CacheKeyBuilder {

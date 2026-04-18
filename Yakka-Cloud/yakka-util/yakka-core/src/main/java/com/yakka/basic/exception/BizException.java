@@ -7,7 +7,7 @@ import com.yakka.basic.exception.code.ResponseEnum;
  * 业务异常
  * 用于在处理业务逻辑时，进行抛出的异常。
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  */
 public class BizException extends BaseUncheckedException {

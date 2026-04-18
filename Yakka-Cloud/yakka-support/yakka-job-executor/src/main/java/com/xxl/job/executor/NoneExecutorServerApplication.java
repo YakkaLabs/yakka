@@ -9,7 +9,7 @@ import static com.yakka.flex.common.constant.BizConstant.BUSINESS_PACKAGE;
 import static com.yakka.flex.common.constant.BizConstant.UTIL_PACKAGE;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @SpringBootApplication
 @ComponentScan({

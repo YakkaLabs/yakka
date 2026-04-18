@@ -17,7 +17,7 @@ import static com.yakka.basic.context.ContextConstants.JWT_KEY_ROLE_LIST;
  * sa-token 权限网关实现
  * Gateway 是响应式的，不能依赖 yakka-oauth-biz（Servlet）、所以直接从 Session 中读取权限列表（登录时已经存入）
  *
- * @author Jared
+ * @author 乾乾
  * @since 2025/11/13 21:46
  */
 @Component

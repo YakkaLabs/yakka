@@ -20,7 +20,7 @@ import java.util.List;
  *
  * @param <T> 消息类型。一定要填写噢，不然会报错
  *
- * @author Jared
+ * @author 乾乾
  */
 public abstract class AbstractRedisStreamMessageListener<T extends AbstractRedisStreamMessage>
         implements StreamListener<String, ObjectRecord<String, String>> {

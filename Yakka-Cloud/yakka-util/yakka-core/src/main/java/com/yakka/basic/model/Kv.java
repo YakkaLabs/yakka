@@ -12,7 +12,7 @@ import java.util.Objects;
 /**
  * 键值对 通用对象
  *
- * @author Jared
+ * @author 乾乾
  * @version v3.3.0
  * @date 2021/7/16 12:52 下午
  * @create [2021/7/16 12:52 下午 ] [tangyh] [初始创建]

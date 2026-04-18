@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/7/29 10:04 PM
  * @create [2022/7/29 10:04 PM ] [tangyh] [初始创建]
@@ -24,7 +24,7 @@ public class BaseEventVO {
      * 适用于：异步调用前
      *
      * @return com.yakka.flex.model.vo.BaseEventVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/29 11:12 PM
      * @create [2022/7/29 11:12 PM ] [tangyh] [初始创建]
      */
@@ -42,7 +42,7 @@ public class BaseEventVO {
      * 适用于：异步执行一开始
      *
      * @return com.yakka.flex.model.vo.BaseEventVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/29 11:12 PM
      * @create [2022/7/29 11:12 PM ] [tangyh] [初始创建]
      */

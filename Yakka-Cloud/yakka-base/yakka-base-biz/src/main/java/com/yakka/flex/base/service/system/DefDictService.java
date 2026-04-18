@@ -11,7 +11,7 @@ import java.util.List;
  * 字典
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-04
  */
 public interface DefDictService extends SuperService<Long, DefDict> {
@@ -38,7 +38,7 @@ public interface DefDictService extends SuperService<Long, DefDict> {
      *
      * @param id 字典id
      * @return com.yakka.flex.system.entity.system.DefDict
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/18 2:39 PM
      * @create [2022/4/18 2:39 PM ] [tangyh] [初始创建]
      */
@@ -50,7 +50,7 @@ public interface DefDictService extends SuperService<Long, DefDict> {
      *
      * @param id 字典ID
      * @return java.util.List<com.yakka.flex.tenant.entity.base.DefDict>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/8 11:39 下午
      * @create [2021/10/8 11:39 下午 ] [tangyh] [初始创建]
      */

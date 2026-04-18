@@ -14,7 +14,7 @@ import java.util.Date;
 /**
  * helper for xxl-job
  *
- * @author Jared 2020-11-05
+ * @author 乾乾 2020-11-05
  */
 public class XxlJobHelper {
 

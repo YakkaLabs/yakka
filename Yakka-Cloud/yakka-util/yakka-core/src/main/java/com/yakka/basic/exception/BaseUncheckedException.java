@@ -6,7 +6,7 @@ import com.yakka.basic.utils.StrPool;
 /**
  * 非运行期异常基类，所有自定义非运行时异常继承该类
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  * @see RuntimeException
  */

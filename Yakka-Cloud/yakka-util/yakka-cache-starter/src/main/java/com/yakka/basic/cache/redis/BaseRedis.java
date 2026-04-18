@@ -38,7 +38,7 @@ import java.util.stream.Collectors;
  * <p>
  * 只对redis 中 string 和 hash 类型的缓存 做了缓存空值处理，其他类型未缓存空值
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/10/24 11:23 AM
  * @create [2022/10/24 11:23 AM ] [tangyh] [初始创建]

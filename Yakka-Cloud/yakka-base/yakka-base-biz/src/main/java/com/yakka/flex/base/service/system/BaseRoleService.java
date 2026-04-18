@@ -16,7 +16,7 @@ import java.util.Map;
  * 角色
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseRoleService extends SuperCacheService<Long, BaseRole> {
@@ -69,7 +69,7 @@ public interface BaseRoleService extends SuperCacheService<Long, BaseRole> {
      * @param employeeId    员工ID
      * @param applicationId 应用ID
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 5:26 PM
      * @create [2022/10/20 5:26 PM ] [tangyh] [初始创建]
      */
@@ -81,7 +81,7 @@ public interface BaseRoleService extends SuperCacheService<Long, BaseRole> {
      * @param employeeId employeeId
      * @param codes      codes
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/24 2:49 PM
      * @create [2022/4/24 2:49 PM ] [tangyh] [初始创建]
      */
@@ -92,7 +92,7 @@ public interface BaseRoleService extends SuperCacheService<Long, BaseRole> {
      *
      * @param employeeId 员工ID
      * @return java.util.List<java.lang.String>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/27 3:17 PM
      * @create [2022/10/27 3:17 PM ] [tangyh] [初始创建]
      */

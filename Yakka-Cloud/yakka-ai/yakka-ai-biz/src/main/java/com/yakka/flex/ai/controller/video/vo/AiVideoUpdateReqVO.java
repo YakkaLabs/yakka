@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 管理后台 - AI 视频更新 Request VO
  *
- * @author Jared
+ * @author 乾乾
  */
 @Schema(description = "管理后台 - AI 视频更新 Request VO")
 @Data

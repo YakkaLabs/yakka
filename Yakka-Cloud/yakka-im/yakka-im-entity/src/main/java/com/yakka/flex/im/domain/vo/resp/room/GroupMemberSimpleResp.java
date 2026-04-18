@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 群成员简化响应
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 分布式锁注解
- * @author Jared
+ * @author 乾乾
  */
 @Retention(RetentionPolicy.RUNTIME)//运行时生效
 @Target(ElementType.METHOD)//作用在方法上

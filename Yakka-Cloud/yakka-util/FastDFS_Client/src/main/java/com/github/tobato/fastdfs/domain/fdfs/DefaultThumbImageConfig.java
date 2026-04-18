@@ -9,7 +9,7 @@ import com.github.tobato.fastdfs.FdfsClientConstants;
 /**
  * 缩略图配置参数
  *
- * @author Jared
+ * @author 乾乾
  */
 @Component
 @ConfigurationProperties(prefix = FdfsClientConstants.THUMB_IMAGE_CONFIG_PREFIX)

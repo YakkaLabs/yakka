@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.proto.storage.enums;
 /**
  * 元数据设置方式
  *
- * @author Jared
+ * @author 乾乾
  */
 public enum StorageMetadataSetType {
 

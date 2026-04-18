@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public class CommonUrlDiscover extends AbstractUrlDiscover {
     @Nullable

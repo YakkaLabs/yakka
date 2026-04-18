@@ -11,7 +11,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 按分组获取存储节点
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TrackerGetStoreStorageWithGroupRequest extends FdfsRequest {
 

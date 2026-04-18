@@ -16,7 +16,7 @@ import java.time.LocalDateTime;
  * 房间表
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

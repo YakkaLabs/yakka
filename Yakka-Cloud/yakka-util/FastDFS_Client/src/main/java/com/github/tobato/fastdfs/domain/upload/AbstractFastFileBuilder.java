@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * 构造FastFile抽象对象
  *
- * @author Jared
+ * @author 乾乾
  * @create 2018-12-24 11:08 AM
  */
 public abstract class AbstractFastFileBuilder<T> {

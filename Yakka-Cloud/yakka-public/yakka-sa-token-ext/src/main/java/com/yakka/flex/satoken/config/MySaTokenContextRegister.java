@@ -13,7 +13,7 @@ import com.yakka.flex.satoken.spring.MySaTokenContextForSpringInJakartaServlet;
 
 /**
  * 注册 Sa-Token 框架所需要的 Bean
- * @author Jared
+ * @author 乾乾
  * @since 2024/9/18 14:38
  */
 @Slf4j

@@ -3,7 +3,7 @@ package com.xxl.job.core.context;
 /**
  * xxl-job context
  *
- * @author Jared 2020-05-21
+ * @author 乾乾 2020-05-21
  * [Dear hj]
  */
 public class XxlJobContext {

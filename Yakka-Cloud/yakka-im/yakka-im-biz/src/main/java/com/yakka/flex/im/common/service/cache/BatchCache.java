@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public interface BatchCache<IN, OUT> {
     /**

@@ -12,7 +12,7 @@ import com.github.tobato.fastdfs.FdfsClientConstants;
  * 由Nginx服务器承担此角色，通常配置以后就不会再改变
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Component
 @ConfigurationProperties(prefix = FdfsClientConstants.ROOT_CONFIG_PREFIX)

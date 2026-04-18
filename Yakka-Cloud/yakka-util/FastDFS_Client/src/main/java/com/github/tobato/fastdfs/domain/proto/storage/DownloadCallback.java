@@ -7,7 +7,7 @@ import java.io.InputStream;
  * 文件下载回调接口
  *
  * @param <T>
- * @author Jared
+ * @author 乾乾
  */
 public interface DownloadCallback<T> {
 

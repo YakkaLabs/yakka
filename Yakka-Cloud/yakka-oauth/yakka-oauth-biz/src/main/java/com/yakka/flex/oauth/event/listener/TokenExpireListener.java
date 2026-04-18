@@ -17,7 +17,7 @@ import org.springframework.transaction.event.TransactionalEventListener;
 /**
  * 同类设备重复登录事件 [只推送给自己的设备]
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Component

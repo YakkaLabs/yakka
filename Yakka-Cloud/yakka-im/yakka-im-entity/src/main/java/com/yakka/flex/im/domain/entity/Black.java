@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
  * 黑名单
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @TableName("im_black")

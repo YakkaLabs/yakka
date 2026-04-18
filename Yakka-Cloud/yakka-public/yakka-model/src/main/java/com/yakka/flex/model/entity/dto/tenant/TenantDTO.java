@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * 租户id
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @NoArgsConstructor

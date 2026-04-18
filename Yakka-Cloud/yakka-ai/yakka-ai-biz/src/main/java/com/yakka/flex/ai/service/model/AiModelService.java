@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * AI 模型 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  * @since 2024/4/24 19:42
  */
 public interface AiModelService {

@@ -19,7 +19,7 @@ import java.util.Map;
  * 代码生成
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 public interface DefGenTableService extends SuperService<Long, DefGenTable> {
@@ -86,7 +86,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      * @param ids      表id
      * @param template 模板
      * @return com.yakka.basic.base.request.DownloadVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:54 PM
      * @create [2022/10/28 4:54 PM ] [tangyh] [初始创建]
      */
@@ -104,7 +104,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      * 获取生成项目的默认配置
      *
      * @return com.yakka.flex.generator.vo.save.ProjectGeneratorVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/5 6:13 PM
      * @create [2022/4/5 6:13 PM ] [tangyh] [初始创建]
      */
@@ -115,7 +115,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      *
      * @param projectGenerator projectGenerator
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/5 6:13 PM
      * @create [2022/4/5 6:13 PM ] [tangyh] [初始创建]
      */
@@ -123,7 +123,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
 
     /***
      * 获取字段模板映射
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/15 10:27 AM
      * @return java.util.Map<java.lang.String, java.lang.String>
      * @create [2022/4/15 10:27 AM ] [tangyh] [初始创建]
@@ -134,7 +134,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      * 获取默认的文件覆盖策略
      *
      * @return java.util.Map<java.lang.String, com.yakka.flex.generator.enumeration.FileOverrideStrategyEnum>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/15 10:27 AM
      * @create [2022/4/15 10:27 AM ] [tangyh] [初始创建]
      * @update [2022/4/15 10:27 AM ] [tangyh] [变更描述]
@@ -146,7 +146,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      *
      * @param idList idList
      * @return java.util.List<com.yakka.flex.generator.vo.result.DefGenTableResultVO>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/6/13 9:43 AM
      * @create [2022/6/13 9:43 AM ] [tangyh] [初始创建]
      * @update [2022/6/13 9:43 AM ] [tangyh] [变更描述]
@@ -158,7 +158,7 @@ public interface DefGenTableService extends SuperService<Long, DefGenTable> {
      *
      * @param projectGenerator projectGenerator
      * @return com.yakka.basic.base.request.DownloadVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/6/14 8:56 PM
      * @create [2022/6/14 8:56 PM ] [tangyh] [初始创建]
      * @update [2022/6/14 8:56 PM ] [tangyh] [变更描述]

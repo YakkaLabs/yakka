@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * Redis MQ 操作模板类
  *
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 public class RedisMQTemplate {

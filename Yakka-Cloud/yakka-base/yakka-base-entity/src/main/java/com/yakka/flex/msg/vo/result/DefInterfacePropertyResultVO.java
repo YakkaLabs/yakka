@@ -21,7 +21,7 @@ import java.util.Map;
  * 接口属性
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-07-04 15:51:37
  */
 @Data

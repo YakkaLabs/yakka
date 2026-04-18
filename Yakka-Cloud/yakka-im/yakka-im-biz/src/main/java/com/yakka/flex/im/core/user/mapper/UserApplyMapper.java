@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.UserApply;
  * 用户申请表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface UserApplyMapper extends BaseMapper<UserApply> {

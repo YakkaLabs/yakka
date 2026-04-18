@@ -10,7 +10,7 @@ import java.time.Duration;
 
 /**
  * 朋友圈所有信息的缓存  朋友圈ID -> 朋友圈素材集合
- * @author Jared
+ * @author 乾乾
  * @date 2025-03-03 6:45 上午
  */
 public class FeedMediaRelCacheKeyBuilder implements CacheKeyBuilder {

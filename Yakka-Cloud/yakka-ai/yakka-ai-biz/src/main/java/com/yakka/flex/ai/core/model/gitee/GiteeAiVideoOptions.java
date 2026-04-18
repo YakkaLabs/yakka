@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
  * <p>实现 {@link VideoOptions} 接口，封装 Gitee AI 平台的视频生成参数。
  * Gitee AI 支持文本生成视频(T2V)功能。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see VideoOptions
  * @see <a href="https://ai.gitee.com/docs/openapi/v1#tag/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/post/async/videos/generations">Gitee AI 视频生成文档</a>
  */

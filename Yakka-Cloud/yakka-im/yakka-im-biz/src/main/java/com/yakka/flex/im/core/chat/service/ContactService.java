@@ -12,7 +12,7 @@ import java.util.Map;
  * 会话列表 服务类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface ContactService {
     /**

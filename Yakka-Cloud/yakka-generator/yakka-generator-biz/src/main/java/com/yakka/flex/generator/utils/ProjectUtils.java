@@ -77,7 +77,7 @@ import static com.yakka.flex.generator.utils.GenCodeConstant.WEB_CONFIGURATION_S
 /**
  * 项目生成 工具类
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/2 7:35 PM
  * @create [2022/4/2 7:35 PM ] [tangyh] [初始创建]
@@ -160,7 +160,7 @@ public class ProjectUtils {
      *
      * @param vo                 vo
      * @param databaseProperties databaseProperties
-     * @author Jared
+     * @author 乾乾
      * @date 2022/6/14 9:07 PM
      * @create [2022/6/14 9:07 PM ] [tangyh] [初始创建]
      * @update [2022/6/14 9:07 PM ] [tangyh] [变更描述]

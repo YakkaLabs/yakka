@@ -9,7 +9,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.ObjectMetaData;
 /**
  * Fdfs交易请求基类
  *
- * @author Jared
+ * @author 乾乾
  */
 public abstract class FdfsRequest {
 

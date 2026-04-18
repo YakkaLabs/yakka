@@ -25,7 +25,7 @@ import java.util.Set;
  * 用户
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-09
  */
 public interface DefUserService extends SuperCacheService<Long, DefUser> {
@@ -61,7 +61,7 @@ public interface DefUserService extends SuperCacheService<Long, DefUser> {
      * @param username 用户名
      * @param id       用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:22 下午
      * @create [2021/10/10 12:22 下午 ] [tangyh] [初始创建]
      */
@@ -73,7 +73,7 @@ public interface DefUserService extends SuperCacheService<Long, DefUser> {
      * @param email 邮箱
      * @param id    用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:23 下午
      * @create [2021/10/10 12:23 下午 ] [tangyh] [初始创建]
      */
@@ -85,7 +85,7 @@ public interface DefUserService extends SuperCacheService<Long, DefUser> {
      * @param mobile 手机号
      * @param id     用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:24 下午
      * @create [2021/10/10 12:24 下午 ] [tangyh] [初始创建]
      */
@@ -97,7 +97,7 @@ public interface DefUserService extends SuperCacheService<Long, DefUser> {
      * @param idCard 身份证
      * @param id     用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:24 下午
      * @create [2021/10/10 12:24 下午 ] [tangyh] [初始创建]
      */

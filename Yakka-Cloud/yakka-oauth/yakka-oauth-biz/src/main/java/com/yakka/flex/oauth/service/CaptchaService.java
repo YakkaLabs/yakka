@@ -10,7 +10,7 @@ import java.util.HashMap;
 /**
  * 验证码
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019-10-18 17:22
  */
 public interface CaptchaService {
@@ -42,7 +42,7 @@ public interface CaptchaService {
      * @param templateCode 模板标识
      *                     需要在「运营平台」-「消息模板」-「模板标识」配置一个短信模板
      * @return com.yakka.basic.base.R<java.lang.Boolean>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/26 8:05 PM
      * @create [2022/7/26 8:05 PM ] [tangyh] [初始创建]
      */
@@ -52,7 +52,7 @@ public interface CaptchaService {
      * 发送邮箱验证码
      *                     需要在「运营平台」-「消息模板」-「模板标识」配置一个短信模板
      * @return com.yakka.basic.base.R<java.lang.Boolean>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/26 8:05 PM
      * @create [2022/7/26 8:05 PM ] [tangyh] [初始创建]
      */

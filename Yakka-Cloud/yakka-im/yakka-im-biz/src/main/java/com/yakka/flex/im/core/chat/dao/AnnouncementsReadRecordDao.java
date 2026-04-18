@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 公告已读记录 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class AnnouncementsReadRecordDao extends ServiceImpl<AnnouncementsReadRecordMapper, AnnouncementsReadRecord> implements IService<AnnouncementsReadRecord> {

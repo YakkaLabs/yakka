@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * 表情包反参
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

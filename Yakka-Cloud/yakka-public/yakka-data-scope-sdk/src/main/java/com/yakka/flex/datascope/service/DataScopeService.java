@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/12 9:11 AM
  * @create [2022/4/12 9:11 AM ] [tangyh] [初始创建]
@@ -33,7 +33,7 @@ public class DataScopeService {
      * @param path            当前访问的页面路径
      * @param dataScopeIdList 员工拥有的数据权限ID
      * @return com.yakka.flex.datascope.entity.DefResourceDataScope
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 10:26 AM
      * @create [2022/10/20 10:26 AM ] [tangyh] [初始创建]
      */
@@ -58,7 +58,7 @@ public class DataScopeService {
      * @param employeeId 员工ID
      * @param category   角色类型
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 10:32 AM
      * @create [2022/10/20 10:32 AM ] [tangyh] [初始创建]
      */

@@ -8,7 +8,7 @@ import com.github.tobato.fastdfs.domain.proto.tracker.internal.TrackerGetFetchSt
 /**
  * 获取源服务器
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TrackerGetFetchStorageCommand extends AbstractFdfsCommand<StorageNodeInfo> {
 

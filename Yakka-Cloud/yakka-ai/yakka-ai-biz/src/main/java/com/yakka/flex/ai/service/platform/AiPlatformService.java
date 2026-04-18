@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * AI 平台配置 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AiPlatformService {
 

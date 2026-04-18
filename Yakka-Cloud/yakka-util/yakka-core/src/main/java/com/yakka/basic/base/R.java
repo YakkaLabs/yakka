@@ -10,7 +10,7 @@ import com.yakka.basic.exception.code.BaseExceptionCode;
 import com.yakka.basic.jackson.JsonUtil;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2017-12-13 10:55
  */
 @Getter

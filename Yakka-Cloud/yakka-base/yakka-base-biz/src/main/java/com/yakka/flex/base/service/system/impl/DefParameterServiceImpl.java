@@ -20,7 +20,7 @@ import com.yakka.flex.base.service.system.DefParameterService;
  * 参数配置
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-13
  */
 @Slf4j

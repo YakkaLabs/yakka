@@ -48,7 +48,7 @@ import java.util.stream.Collectors;
  * 资源
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-09-13
  */
 @Slf4j
@@ -146,7 +146,7 @@ public class DefResourceServiceImpl extends SuperCacheServiceImpl<DefResourceMan
      *
      * @param resourceApiList 接口api
      * @param resourceId      资源id
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/17 9:52 下午
      * @create [2021/9/17 9:52 下午 ] [tangyh] [初始创建]
      */

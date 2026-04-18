@@ -3,7 +3,7 @@ package com.xxl.job.core.biz.model;
 import java.io.Serializable;
 
 /**
- * @author Jared 2020-04-11 22:27
+ * @author 乾乾 2020-04-11 22:27
  */
 public class LogParam implements Serializable {
     private static final long serialVersionUID = 42L;

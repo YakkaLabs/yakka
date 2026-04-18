@@ -13,7 +13,7 @@ import java.util.List;
  * 用户在线状态表
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class UserStateDao extends ServiceImpl<UserStateMapper, UserState> {

@@ -5,7 +5,7 @@ import com.yakka.flex.generator.enumeration.ProjectTypeEnum;
 import com.yakka.flex.generator.vo.save.ProjectGeneratorVO;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/5 5:54 PM
  * @create [2022/4/5 5:54 PM ] [tangyh] [初始创建]

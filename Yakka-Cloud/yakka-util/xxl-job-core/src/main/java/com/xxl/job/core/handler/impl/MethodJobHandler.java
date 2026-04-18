@@ -5,7 +5,7 @@ import com.xxl.job.core.handler.IJobHandler;
 import java.lang.reflect.Method;
 
 /**
- * @author Jared 2019-12-11 21:12:18
+ * @author 乾乾 2019-12-11 21:12:18
  */
 public class MethodJobHandler extends IJobHandler {
 

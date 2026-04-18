@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 /**
  * 转发类型的枚举
  *
- * @author Jared
+ * @author 乾乾
  */
 @RequiredArgsConstructor
 @Getter

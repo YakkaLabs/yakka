@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * param对象与byte映射器
  *
- * @author Jared
+ * @author 乾乾
  */
 public class FdfsParamMapper {
 

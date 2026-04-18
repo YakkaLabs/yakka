@@ -18,7 +18,7 @@ import static com.yakka.flex.common.constant.BizConstant.UTIL_PACKAGE;
 /**
  * 在线代码生成器模块启动类
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-02-28
  */
 @SpringBootApplication

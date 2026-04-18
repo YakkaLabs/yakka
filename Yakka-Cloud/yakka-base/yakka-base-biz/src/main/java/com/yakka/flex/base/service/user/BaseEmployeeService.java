@@ -17,7 +17,7 @@ import java.util.List;
  * 员工
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseEmployeeService extends SuperCacheService<Long, BaseEmployee> {
@@ -26,7 +26,7 @@ public interface BaseEmployeeService extends SuperCacheService<Long, BaseEmploye
      *
      * @param entityList entityList
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:38 PM
      * @create [2022/10/28 4:38 PM ] [tangyh] [初始创建]
      */
@@ -70,7 +70,7 @@ public interface BaseEmployeeService extends SuperCacheService<Long, BaseEmploye
      *
      * @param baseEmployee baseEmployee
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 9:20 AM
      * @create [2022/10/28 9:20 AM ] [tangyh] [初始创建]
      */
@@ -81,7 +81,7 @@ public interface BaseEmployeeService extends SuperCacheService<Long, BaseEmploye
      *
      * @param baseEmployee baseEmployee
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 9:20 AM
      * @create [2022/10/28 9:20 AM ] [tangyh] [初始创建]
      */

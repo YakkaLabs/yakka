@@ -31,7 +31,7 @@ import static com.yakka.basic.exception.code.ResponseEnum.METHOD_NOT_ALLOWED;
 /**
  * 全局异常处理
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025年06月19日10:19:27
  */
 @Slf4j

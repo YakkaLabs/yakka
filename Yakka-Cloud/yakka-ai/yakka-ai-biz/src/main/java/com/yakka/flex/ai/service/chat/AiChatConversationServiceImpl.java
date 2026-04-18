@@ -36,7 +36,7 @@ import static com.yakka.basic.utils.collection.CollectionUtils.convertList;
 /**
  * AI 聊天对话 Service 实现类
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Validated

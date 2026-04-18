@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 /**
  * AI 平台配置 Service 实现类
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Validated

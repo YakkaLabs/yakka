@@ -12,7 +12,7 @@ import com.yakka.basic.utils.StrPool;
 /**
  * 灰度配置
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/7/13 11:36 上午
  * @create [2021/7/13 11:36 上午 ] [tangyh] [初始创建]

@@ -3,8 +3,8 @@ package com.github.tobato.fastdfs.exception;
 /**
  * 非fastdfs本身的错误码抛出的异常，而是java客户端向服务端发送命令、文件或从服务端读取结果、下载文件时发生io异常
  *
- * @author Jareduang
- * @author Jared
+ * @author 乾乾uang
+ * @author 乾乾
  *
  */
 public class FdfsIOException extends FdfsException {

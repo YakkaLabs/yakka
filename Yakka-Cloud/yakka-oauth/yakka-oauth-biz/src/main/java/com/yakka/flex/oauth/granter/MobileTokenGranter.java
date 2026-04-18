@@ -43,8 +43,8 @@ import static com.yakka.flex.oauth.granter.MobileTokenGranter.GRANT_TYPE;
 /**
  * 手机号登录获取token
  *
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  * @date 2020年03月31日10:22:55
  */
 @Component(GRANT_TYPE)

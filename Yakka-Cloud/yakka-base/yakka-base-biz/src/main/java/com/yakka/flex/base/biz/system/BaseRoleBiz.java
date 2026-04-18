@@ -13,7 +13,7 @@ import java.util.Collections;
 import java.util.Map;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2021/11/20 23:49
  */
 
@@ -30,7 +30,7 @@ public class BaseRoleBiz {
      *
      * @param roleId 角色ID
      * @return java.util.Map<java.lang.Long, java.util.Collection < java.lang.Long>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/19 5:29 PM
      * @create [2022/10/19 5:29 PM ] [tangyh] [初始创建]
      */

@@ -6,7 +6,7 @@ import lombok.experimental.Accessors;
 /**
  * AI 知识库段落搜索 Response BO
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Accessors(chain = true)

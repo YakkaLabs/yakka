@@ -32,7 +32,7 @@ import java.util.function.Function;
  * 角色
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  * @create [2021-10-18] [zuihou] [代码生成器生成]
  */
@@ -66,7 +66,7 @@ public class BaseRoleManagerImpl extends SuperCacheManagerImpl<BaseRoleMapper, B
      * @param employeeId    员工ID
      * @param applicationId 应用ID
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 11:25 AM
      * @create [2022/10/20 11:25 AM ] [tangyh] [初始创建]
      */
@@ -101,7 +101,7 @@ public class BaseRoleManagerImpl extends SuperCacheManagerImpl<BaseRoleMapper, B
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 4:46 PM
      * @create [2022/10/20 4:46 PM ] [tangyh] [初始创建]
      */

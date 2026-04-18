@@ -15,7 +15,7 @@ import com.yakka.flex.msg.vo.update.ExtendMsgSendVO;
  * 消息
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-07-10 11:41:17
  * @create [2022-07-10 11:41:17] [zuihou] [代码生成器生成]
  */
@@ -28,7 +28,7 @@ public interface ExtendMsgService extends SuperService<Long, ExtendMsg> {
      * @param msgTemplate 消息模版
      * @param sysUser     当前用户
      * @return 是否执行
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:57 PM
      * @create [2022/10/28 4:57 PM ] [tangyh] [初始创建]
      */
@@ -48,7 +48,7 @@ public interface ExtendMsgService extends SuperService<Long, ExtendMsg> {
      * @param data
      * @param sysUser
      * @return
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:57 PM
      * @create [2022/10/28 4:57 PM ] [tangyh] [初始创建]
      */

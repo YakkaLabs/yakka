@@ -2,7 +2,7 @@
 //
 ///**
 // * sharding vo
-// * @author Jared 2017-07-25 21:26:38
+// * @author 乾乾 2017-07-25 21:26:38
 // */
 //public class ShardingUtil {
 //

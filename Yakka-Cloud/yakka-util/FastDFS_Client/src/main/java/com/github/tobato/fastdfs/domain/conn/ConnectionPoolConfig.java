@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * 连接池配置
  *
- * @author Jared
+ * @author 乾乾
  */
 @Component
 @ConfigurationProperties(prefix = FdfsClientConstants.POOL_CONFIG_PREFIX)

@@ -8,7 +8,7 @@ import com.yakka.flex.im.domain.enums.MessageTypeEnum;
 
 /**
  * 系统消息
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class SystemMsgHandler extends AbstractMsgHandler<String> {

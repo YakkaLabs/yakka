@@ -9,7 +9,7 @@ import com.yakka.basic.constant.Constants;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/29 11:05 PM
  * @create [2022/9/29 11:05 PM ] [tangyh] [初始创建]
@@ -23,7 +23,7 @@ public interface OauthApi {
      * @param employeeId    员工ID， 不能为空
      * @param applicationId 应用ID， 可以为空
      * @return com.yakka.basic.base.R<java.util.List < java.lang.String>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:25 PM
      * @create [2022/11/18 2:25 PM ] [tangyh] [初始创建]
      */

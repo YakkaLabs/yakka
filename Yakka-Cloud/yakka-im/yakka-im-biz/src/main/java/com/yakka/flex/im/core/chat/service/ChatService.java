@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 消息处理类
- * @author Jared
+ * @author 乾乾
  */
 public interface ChatService {
 

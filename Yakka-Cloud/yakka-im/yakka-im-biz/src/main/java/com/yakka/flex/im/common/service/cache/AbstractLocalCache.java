@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * redis string类型的批量缓存框架
- * @author Jared
+ * @author 乾乾
  */
 public abstract class AbstractLocalCache<IN, OUT> implements BatchCache<IN, OUT> {
 

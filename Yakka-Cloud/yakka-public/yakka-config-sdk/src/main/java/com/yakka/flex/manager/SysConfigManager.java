@@ -16,7 +16,7 @@ import java.util.Set;
 /**
  * 系统配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2024-04-18
  */
 @RequiredArgsConstructor

@@ -7,7 +7,7 @@ import com.yakka.flex.im.common.enums.IdempotentEnum;
  * 用户背包表 服务类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface UserBackpackService {
     /**

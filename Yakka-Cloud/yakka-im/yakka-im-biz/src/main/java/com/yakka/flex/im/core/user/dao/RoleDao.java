@@ -10,7 +10,7 @@ import com.yakka.flex.im.core.user.mapper.RoleMapper;
  * 角色表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class RoleDao extends ServiceImpl<RoleMapper, Role> {

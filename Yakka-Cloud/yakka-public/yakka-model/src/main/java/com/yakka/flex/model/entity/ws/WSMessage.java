@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 用户消息推送
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class WSMessage extends ChatMessageResp {

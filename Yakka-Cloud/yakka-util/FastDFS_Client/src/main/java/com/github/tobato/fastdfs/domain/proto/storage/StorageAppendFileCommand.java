@@ -9,7 +9,7 @@ import java.io.InputStream;
 /**
  * 添加文件命令
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageAppendFileCommand extends AbstractFdfsCommand<Void> {
 

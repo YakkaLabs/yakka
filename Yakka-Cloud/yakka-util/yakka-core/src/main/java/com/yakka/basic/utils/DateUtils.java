@@ -40,7 +40,7 @@ import static com.yakka.basic.exception.BaseException.BASE_VALID_PARAM;
 /**
  * 描述：日期工具类
  *
- * @author Jared
+ * @author 乾乾
  * 修改时间：2018/4/24
  */
 @Slf4j

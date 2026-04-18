@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * 用户
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025/06/12
  */
 @FeignClient(name = "yakka-im-server",  fallback = ImUserApiFallback.class)

@@ -29,7 +29,7 @@ import com.yakka.flex.im.domain.vo.resp.admin.LoginRankResp;
 
 /**
  * 后台管理统计服务实现
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Slf4j

@@ -9,7 +9,7 @@ import com.yakka.flex.base.entity.system.DefParameter;
  * 参数配置
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-13
  */
 public interface DefParameterService extends SuperCacheService<Long, DefParameter> {

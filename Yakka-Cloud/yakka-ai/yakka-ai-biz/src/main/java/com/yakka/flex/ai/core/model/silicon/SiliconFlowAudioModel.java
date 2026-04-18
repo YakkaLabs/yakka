@@ -13,7 +13,7 @@ import java.util.Set;
  * <p>实现 {@link AudioModel} 接口，封装硅基流动平台的音频生成功能。
  * 支持文本转语音(TTS)，可配置不同的音色、语速等参数。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see AudioModel
  * @see SiliconFlowAudioOptions
  * @see SiliconFlowAudioApi

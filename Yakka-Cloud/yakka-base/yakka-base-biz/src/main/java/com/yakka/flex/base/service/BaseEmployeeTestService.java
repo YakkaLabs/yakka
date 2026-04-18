@@ -4,7 +4,7 @@ import com.yakka.basic.base.manager.SuperCacheManager;
 import com.yakka.flex.base.entity.user.BaseEmployee;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/20 11:31 AM
  * @create [2022/9/20 11:31 AM ] [tangyh] [初始创建]
@@ -15,7 +15,7 @@ public interface BaseEmployeeTestService extends SuperCacheManager<BaseEmployee>
      *
      * @param id id
      * @return com.yakka.flex.base.entity.user.BaseEmployee
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 9:20 AM
      * @create [2022/10/28 9:20 AM ] [tangyh] [初始创建]
      */

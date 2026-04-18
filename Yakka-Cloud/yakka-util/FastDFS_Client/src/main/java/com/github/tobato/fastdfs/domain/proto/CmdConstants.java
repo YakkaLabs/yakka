@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.domain.proto;
 /**
  * fastdfs协议命令的常量
  *
- * @author Jared
+ * @author 乾乾
  */
 public final class CmdConstants {
     /**

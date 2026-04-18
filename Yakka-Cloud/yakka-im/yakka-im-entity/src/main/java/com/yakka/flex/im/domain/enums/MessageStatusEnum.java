@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  * 消息状态
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Getter

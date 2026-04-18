@@ -15,7 +15,7 @@
 ///**
 // * 基础服务-全局异常处理
 // *
-// * @author Jared
+// * @author 乾乾
 // * @date 2025-06-08
 // */
 //@Configuration

@@ -21,7 +21,7 @@ import com.yakka.flex.im.core.user.service.WxMsgService;
 
 /**
  * 微信api交互接口
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Hidden

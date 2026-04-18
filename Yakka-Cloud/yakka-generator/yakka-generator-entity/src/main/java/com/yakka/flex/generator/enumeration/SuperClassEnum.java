@@ -22,7 +22,7 @@ import com.yakka.basic.interfaces.BaseEnum;
 /**
  * 父类
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022/10/28 4:59 PM
  * @create [2022/10/28 4:59 PM ] [tangyh] [初始创建]
  */

@@ -1,7 +1,7 @@
 package com.yakka.flex.common.constant;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public interface MqConstant {
 	/**

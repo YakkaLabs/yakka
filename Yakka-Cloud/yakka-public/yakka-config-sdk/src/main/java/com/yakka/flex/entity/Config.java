@@ -12,7 +12,7 @@ import com.yakka.basic.base.entity.Entity;
 
 /**
  * 系统配置表 base_config
- * @author Jared
+ * @author 乾乾
  * @date 2024-04-18
  */
 @Data

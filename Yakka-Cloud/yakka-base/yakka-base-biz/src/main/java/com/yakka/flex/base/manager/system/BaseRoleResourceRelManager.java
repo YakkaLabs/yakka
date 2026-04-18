@@ -12,7 +12,7 @@ import java.util.List;
  * 角色的资源
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseRoleResourceRelManager extends SuperManager<BaseRoleResourceRel> {
@@ -30,7 +30,7 @@ public interface BaseRoleResourceRelManager extends SuperManager<BaseRoleResourc
      * 根据角色ID删除角色的资源
      *
      * @param roleIdList idList
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/25 10:50 PM
      * @create [2022/10/25 10:50 PM ] [tangyh] [初始创建]
      */

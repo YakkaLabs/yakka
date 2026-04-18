@@ -3,7 +3,7 @@ package com.yakka.basic.exception;
 /**
  * 异常接口类
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  */
 public interface BaseException {

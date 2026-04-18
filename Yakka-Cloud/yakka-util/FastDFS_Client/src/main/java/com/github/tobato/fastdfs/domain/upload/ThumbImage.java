@@ -13,7 +13,7 @@ import org.apache.commons.lang3.Validate;
  *     如果没有配置按比例缩放，则按长宽缩放
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  * @create 2018-12-23 3:11 PM
  */
 public class ThumbImage {

@@ -14,7 +14,7 @@ package com.yakka.flex.ai.core.model.strategy;
  *   <li>cancelled - 任务已取消</li>
  * </ul>
  *
- * @author Jared
+ * @author 乾乾
  */
 public class GiteeAiVideoStatusStrategy implements VideoStatusStrategy {
 

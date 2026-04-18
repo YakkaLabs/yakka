@@ -13,7 +13,7 @@ import java.util.List;
  * 应用
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-09-15
  */
 public interface DefApplicationService extends SuperCacheService<Long, DefApplication> {
@@ -25,7 +25,7 @@ public interface DefApplicationService extends SuperCacheService<Long, DefApplic
      * @param id   应用id
      * @param name 应用名
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/15 6:46 下午
      * @create [2021/9/15 6:46 下午 ] [tangyh] [初始创建]
      */
@@ -35,7 +35,7 @@ public interface DefApplicationService extends SuperCacheService<Long, DefApplic
      * 查询全部应用资源列表
      *
      * @return java.util.List<com.yakka.flex.tenant.vo.result.tenant.ApplicationResourceResultVO>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/27 11:39 下午
      * @create [2021/9/27 11:39 下午 ] [tangyh] [初始创建]
      */
@@ -45,7 +45,7 @@ public interface DefApplicationService extends SuperCacheService<Long, DefApplic
      * 查询可用的应用资源列表
      *
      * @return java.util.List<com.yakka.flex.tenant.vo.result.tenant.ApplicationResourceResultVO>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/27 11:39 下午
      * @create [2021/9/27 11:39 下午 ] [tangyh] [初始创建]
      */
@@ -71,7 +71,7 @@ public interface DefApplicationService extends SuperCacheService<Long, DefApplic
      * 查询可用的应用数据权限列表
      *
      * @return java.util.List<com.yakka.flex.tenant.vo.result.tenant.ApplicationResourceResultVO>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/27 11:39 下午
      * @create [2021/9/27 11:39 下午 ] [tangyh] [初始创建]
      */

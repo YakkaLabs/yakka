@@ -21,7 +21,7 @@ import java.util.Map;
  *
  * <p>封装 Gitee AI 平台的视频生成 API 调用，支持异步视频生成任务的提交和状态查询。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see <a href="https://ai.gitee.com/docs/openapi/v1#tag/%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/post/async/videos/generations">Gitee AI 视频生成文档</a>
  */
 public class GiteeAiVideoApi {

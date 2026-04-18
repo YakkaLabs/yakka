@@ -17,7 +17,7 @@ import java.nio.charset.Charset;
  * 定义了被池化的对象的创建，初始化，激活，钝化以及销毁功能
  * </per>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Component
 @ConfigurationProperties(prefix = FdfsClientConstants.ROOT_CONFIG_PREFIX)

@@ -13,7 +13,7 @@ import java.util.List;
  * 员工的角色
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseEmployeeRoleRelManager extends SuperManager<BaseEmployeeRoleRel> {
@@ -57,7 +57,7 @@ public interface BaseEmployeeRoleRelManager extends SuperManager<BaseEmployeeRol
      * 根据角色id 删除员工有用的角色
      *
      * @param idList idList
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/25 11:17 PM
      * @create [2022/10/25 11:17 PM ] [tangyh] [初始创建]
      */

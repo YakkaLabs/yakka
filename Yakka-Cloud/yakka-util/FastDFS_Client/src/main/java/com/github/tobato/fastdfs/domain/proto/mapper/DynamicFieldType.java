@@ -8,7 +8,7 @@ package com.github.tobato.fastdfs.domain.proto.mapper;
  * 剩余的所有byte-将该字段全部写入到最后的byte当中
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 public enum DynamicFieldType {
     /**

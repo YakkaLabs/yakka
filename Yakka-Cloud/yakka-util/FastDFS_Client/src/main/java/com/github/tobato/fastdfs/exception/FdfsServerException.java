@@ -9,8 +9,8 @@ import com.github.tobato.fastdfs.domain.proto.ErrorCodeConstants;
 /**
  * fastdfs服务端返回的错误码构成的异常
  *
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  */
 public class FdfsServerException extends FdfsException {
 

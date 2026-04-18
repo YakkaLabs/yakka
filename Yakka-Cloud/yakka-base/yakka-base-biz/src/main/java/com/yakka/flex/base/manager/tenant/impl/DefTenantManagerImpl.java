@@ -28,7 +28,7 @@ import java.util.stream.Collectors;
 /**
  * 应用管理
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/9/29 1:26 下午
  * @create [2021/9/29 1:26 下午 ] [tangyh] [初始创建]

@@ -3,7 +3,7 @@ package com.yakka.basic.exception;
 /**
  * 运行期异常基类
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  */
 public abstract class BaseCheckedException extends Exception implements BaseException {

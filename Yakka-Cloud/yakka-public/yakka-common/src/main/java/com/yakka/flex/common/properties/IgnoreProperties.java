@@ -20,7 +20,7 @@ import static com.yakka.basic.utils.CollHelper.putAll;
  * 2. 是否需要用户信息?
  * 3. 是否需要uri权限?
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/01/03
  */
 @Data

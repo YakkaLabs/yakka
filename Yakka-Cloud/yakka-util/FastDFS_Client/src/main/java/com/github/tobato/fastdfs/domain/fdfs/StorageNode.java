@@ -8,7 +8,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 向tracker请求上传、下载文件或其他文件请求时，tracker返回的文件storage节点的信息
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageNode {
 

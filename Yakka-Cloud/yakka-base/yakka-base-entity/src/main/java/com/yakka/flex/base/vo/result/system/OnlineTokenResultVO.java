@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 /**
  * 在线用户 token
- * @author Jared
+ * @author 乾乾
  * @since 2024/8/1 15:40
  */
 @Data

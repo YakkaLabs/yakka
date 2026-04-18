@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 
 /**
  * 用户表
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

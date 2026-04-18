@@ -37,7 +37,7 @@ import java.util.List;
 /**
  * 员工大业务层
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021/10/22 10:37
  */
 @Service
@@ -54,7 +54,7 @@ public class BaseEmployeeBiz {
      *
      * @param saveVO saveVO
      * @return com.yakka.flex.base.entity.user.BaseEmployee
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 12:15 AM
      * @create [2022/10/28 12:15 AM ] [tangyh] [初始创建]
      */
@@ -83,7 +83,7 @@ public class BaseEmployeeBiz {
      *
      * @param employeeId 员工ID
      * @return com.yakka.flex.base.vo.result.user.BaseEmployeeResultVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 12:13 AM
      * @create [2022/10/28 12:13 AM ] [tangyh] [初始创建]
      */
@@ -107,7 +107,7 @@ public class BaseEmployeeBiz {
      *
      * @param params 参数
      * @return IPage
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 12:19 AM
      * @create [2022/10/28 12:19 AM ] [tangyh] [初始创建]
      */

@@ -22,7 +22,7 @@ import static com.yakka.basic.utils.ValidatorUtil.REGEX_PASSWORD;
  * 用户密码修改VO
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2019-11-04
  */
 @Data

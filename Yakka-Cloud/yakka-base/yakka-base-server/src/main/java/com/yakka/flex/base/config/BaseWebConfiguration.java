@@ -11,7 +11,7 @@ import com.yakka.flex.oauth.facade.LogFacade;
 /**
  * 基础服务-Web配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-08
  */
 @Configuration

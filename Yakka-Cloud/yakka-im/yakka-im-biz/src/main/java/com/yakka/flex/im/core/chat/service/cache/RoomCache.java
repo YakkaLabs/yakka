@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 
 /**
  * 房间基本信息的缓存
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class RoomCache extends AbstractRedisStringCache<Long, Room> {

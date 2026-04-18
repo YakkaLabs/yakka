@@ -1,7 +1,7 @@
 package com.yakka.basic.cache.utils;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public class BytesWrapper<T> implements Cloneable {
     private T value;

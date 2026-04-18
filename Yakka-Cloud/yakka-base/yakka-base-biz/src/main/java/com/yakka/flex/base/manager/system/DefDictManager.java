@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 字典管理
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/9/29 1:26 下午
  * @create [2021/9/29 1:26 下午 ] [tangyh] [初始创建]
@@ -32,7 +32,7 @@ public interface DefDictManager extends SuperManager<DefDict>, LoadService {
      *
      * @param idList idList
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/18 1:34 PM
      * @create [2022/4/18 1:34 PM ] [tangyh] [初始创建]
      */

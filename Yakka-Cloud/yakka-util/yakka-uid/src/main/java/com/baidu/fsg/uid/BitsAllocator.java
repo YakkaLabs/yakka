@@ -25,7 +25,7 @@ import org.springframework.util.Assert;
  * 为UID分配64位(long)<br>
  * sign (fixed 1bit) -> deltaSecond -> workerId -> sequence(within the same second)
  *
- * @author Jared
+ * @author 乾乾
  */
 public class BitsAllocator {
     /**

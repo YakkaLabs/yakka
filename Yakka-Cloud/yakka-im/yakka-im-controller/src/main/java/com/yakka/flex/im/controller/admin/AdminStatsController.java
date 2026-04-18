@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  * 后台管理统计接口
- * @author Jared
+ * @author 乾乾
  */
 @RestController
 @RequestMapping("/admin/stats")

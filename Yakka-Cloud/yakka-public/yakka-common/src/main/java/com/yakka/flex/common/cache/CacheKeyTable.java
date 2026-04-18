@@ -5,7 +5,7 @@ package com.yakka.flex.common.cache;
  * <p>
  * 使用@Cacheable时， 其value值一定要在此处指定
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020/10/21
  */
 public interface CacheKeyTable {

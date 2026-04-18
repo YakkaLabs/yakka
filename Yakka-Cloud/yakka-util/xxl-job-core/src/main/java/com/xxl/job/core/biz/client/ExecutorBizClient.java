@@ -7,7 +7,7 @@ import com.xxl.job.core.util.XxlJobRemotingUtil;
 /**
  * admin api test
  *
- * @author Jared 22:14:52
+ * @author 乾乾 22:14:52
  */
 public class ExecutorBizClient implements ExecutorBiz {
 

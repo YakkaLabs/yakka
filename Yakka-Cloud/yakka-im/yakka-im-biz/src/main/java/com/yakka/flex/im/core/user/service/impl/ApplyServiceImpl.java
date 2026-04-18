@@ -62,7 +62,7 @@ import static com.yakka.flex.im.domain.enums.NoticeStatusEnum.*;
 
 /**
  * 好友申请、群聊邀请
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Service

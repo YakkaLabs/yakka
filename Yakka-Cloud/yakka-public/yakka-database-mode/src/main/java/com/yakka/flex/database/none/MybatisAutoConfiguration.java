@@ -17,7 +17,7 @@ import static com.yakka.flex.common.constant.BizConstant.BUSINESS_PACKAGE;
 import static com.yakka.flex.common.constant.BizConstant.UTIL_PACKAGE;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/22 4:17 PM
  * @create [2022/9/22 4:17 PM ] [tangyh] [初始创建]

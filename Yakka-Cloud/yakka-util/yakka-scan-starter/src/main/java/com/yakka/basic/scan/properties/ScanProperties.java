@@ -7,7 +7,7 @@ import com.yakka.basic.constant.Constants;
 /**
  * 缓存配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021年09月19日15:12:32
  */
 @Data

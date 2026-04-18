@@ -9,7 +9,7 @@ import com.yakka.flex.common.cache.CacheKeyTable;
 /**
  * 房间元数据服务参数 KEY
  *
- * @author Jared
+ * @author 乾乾
  */
 public class RoomMetadataCacheKeyBuilder implements CacheKeyBuilder {
     public static CacheHashKey builder(Long roomId, String itemKey) {

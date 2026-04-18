@@ -10,7 +10,7 @@ import com.yakka.flex.msg.strategy.domain.MsgParam;
 import com.yakka.flex.msg.strategy.domain.MsgResult;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2022/7/11 0011 10:29
  */
 public class TestMsgStrategyImpl implements MsgStrategy {

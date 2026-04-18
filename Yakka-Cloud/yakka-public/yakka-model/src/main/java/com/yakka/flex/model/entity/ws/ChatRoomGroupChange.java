@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
  * 房间信息修改广播
  * Description: 消息发送请求体
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025-02-19
  */
 @Data

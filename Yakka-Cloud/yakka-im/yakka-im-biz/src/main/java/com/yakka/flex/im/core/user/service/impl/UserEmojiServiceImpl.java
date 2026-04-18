@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 
 /**
  * 用户表情包 ServiceImpl
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Slf4j

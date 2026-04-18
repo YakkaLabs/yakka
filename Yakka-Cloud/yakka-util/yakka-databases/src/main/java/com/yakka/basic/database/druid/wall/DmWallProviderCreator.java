@@ -9,7 +9,7 @@ import com.alibaba.druid.wall.spi.OracleWallProvider;
 
 /**
  *
- * @author Jared
+ * @author 乾乾
  * @since 2025/3/12 16:18
  */
 public class DmWallProviderCreator implements WallProviderCreator {

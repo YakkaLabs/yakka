@@ -25,7 +25,7 @@ import java.util.concurrent.*;
 /**
  * Copy from : https://github.com/xuxueli/xxl-rpc
  *
- * @author Jared 2020-04-11 21:25
+ * @author 乾乾 2020-04-11 21:25
  */
 public class EmbedServer {
     private static final Logger logger = LoggerFactory.getLogger(EmbedServer.class);
@@ -125,7 +125,7 @@ public class EmbedServer {
      * <p>
      * Copy from : https://github.com/xuxueli/xxl-rpc
      *
-     * @author Jared 2015-11-24 22:25:15
+     * @author 乾乾 2015-11-24 22:25:15
      */
     public static class EmbedHttpServerHandler extends SimpleChannelInboundHandler<FullHttpRequest> {
         private static final Logger logger = LoggerFactory.getLogger(EmbedHttpServerHandler.class);

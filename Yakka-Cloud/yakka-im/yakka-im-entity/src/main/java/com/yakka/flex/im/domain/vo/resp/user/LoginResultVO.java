@@ -10,7 +10,7 @@ import lombok.experimental.Accessors;
 /**
  * 登录参数, 双token, 续签同时刷新 token 与 refreshToken; 相当于自动重新登录; 这样前端无法拿同一个 refreshToken 无限刷新
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025年02月19日22:18:12
  */
 @Data

@@ -5,7 +5,7 @@ import com.yakka.flex.model.enums.MessageMarkTypeEnum;
 
 /**
  * 鲜花标记策略
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class FlowerStrategy extends AbstractMsgMarkStrategy {

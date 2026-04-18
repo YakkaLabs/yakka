@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * ws的基本返回信息体
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class WsBaseResp<T> {

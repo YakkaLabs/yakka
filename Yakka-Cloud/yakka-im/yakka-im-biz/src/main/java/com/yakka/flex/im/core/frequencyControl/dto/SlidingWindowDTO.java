@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 限流策略定义
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class SlidingWindowDTO extends FrequencyControlDTO {

@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * java与C服务端数据交换时byte数组与int,long转换的工具类
  *
- * @author Jared
+ * @author 乾乾
  */
 public class BytesUtil {
     /**

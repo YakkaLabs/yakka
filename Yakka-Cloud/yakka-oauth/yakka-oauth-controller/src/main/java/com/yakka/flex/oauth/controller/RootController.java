@@ -51,7 +51,7 @@ import java.io.IOException;
 /**
  * 登录页 Controller
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020年03月31日10:10:36
  */
 @Slf4j
@@ -83,7 +83,7 @@ public class RootController {
 	/**
 	 * 登录接口
 	 * grantType 表示登录类型 可选值为：CAPTCHA,REFRESH_TOKEN,PASSWORD,MOBILE
-	 * @author Jared
+	 * @author 乾乾
 	 * @date 2025/06/06 9:33 PM
 	 */
 	@PostMapping(value = "/anyTenant/login")

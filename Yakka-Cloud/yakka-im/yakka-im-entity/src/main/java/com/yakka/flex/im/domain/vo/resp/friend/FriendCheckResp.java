@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 好友校验
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

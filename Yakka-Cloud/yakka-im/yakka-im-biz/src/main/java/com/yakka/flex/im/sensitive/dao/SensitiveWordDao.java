@@ -7,7 +7,7 @@ import com.yakka.flex.im.sensitive.mapper.SensitiveWordMapper;
 
 /**
  * 敏感词DAO
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class SensitiveWordDao extends ServiceImpl<SensitiveWordMapper, SensitiveWord> {

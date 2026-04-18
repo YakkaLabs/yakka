@@ -12,7 +12,7 @@ import com.yakka.basic.interfaces.echo.EchoService;
 /**
  * InjectionResult 注解的 AOP 工具
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020年01月19日09:27:41
  */
 @Aspect

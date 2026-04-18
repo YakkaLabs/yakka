@@ -3,7 +3,7 @@ package com.yakka.flex.model.constant;
 import com.baomidou.mybatisplus.annotation.SqlCondition;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/8/11 10:41 PM
  * @create [2022/8/11 10:41 PM ] [tangyh] [初始创建]

@@ -8,7 +8,7 @@ import com.yakka.basic.log.event.SysLogListener;
 import com.yakka.flex.oauth.facade.LogFacade;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2017-12-15 14:42
  */
 @Configuration

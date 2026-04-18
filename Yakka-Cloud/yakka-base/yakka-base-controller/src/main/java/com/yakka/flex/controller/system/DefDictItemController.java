@@ -37,7 +37,7 @@ import static com.yakka.flex.common.constant.SwaggerConstants.DATA_TYPE_STRING;
  * 字典项
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-04
  */
 @Slf4j

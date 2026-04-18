@@ -23,7 +23,7 @@ import static com.yakka.basic.utils.DateUtils.DEFAULT_TIME_FORMAT;
 /**
  * jackson 自定义序列化 and 反序列化 规则
  *
- * @author Jared
+ * @author 乾乾
  */
 public class YakkaJacksonModule extends SimpleModule {
 

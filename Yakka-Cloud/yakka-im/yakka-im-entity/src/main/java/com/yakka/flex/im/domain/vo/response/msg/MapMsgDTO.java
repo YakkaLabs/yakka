@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 地图消息返回体
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

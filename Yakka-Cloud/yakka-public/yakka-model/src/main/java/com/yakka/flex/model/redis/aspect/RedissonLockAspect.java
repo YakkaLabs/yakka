@@ -18,7 +18,7 @@ import java.lang.reflect.Method;
 
 /**
  * 分布式锁切面
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Aspect

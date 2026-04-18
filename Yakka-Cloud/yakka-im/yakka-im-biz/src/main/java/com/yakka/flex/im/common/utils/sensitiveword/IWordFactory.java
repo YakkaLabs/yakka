@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 敏感词
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface IWordFactory {
     /**

@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 参数配置 服务层实现
- * @author Jared
+ * @author 乾乾
  */
 public interface SysConfigService {
 

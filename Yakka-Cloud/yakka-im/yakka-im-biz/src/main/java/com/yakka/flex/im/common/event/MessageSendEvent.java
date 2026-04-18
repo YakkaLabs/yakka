@@ -5,7 +5,7 @@ import lombok.Getter;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Getter
 public class MessageSendEvent extends ApplicationEvent {

@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
  * 用户角色关系表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class UserRoleDao extends ServiceImpl<UserRoleMapper, UserRole> {

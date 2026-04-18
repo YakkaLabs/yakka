@@ -15,7 +15,7 @@ import java.util.Objects;
 
 /**
  * 抽象类频控服务 -使用redis实现 固定时间内不超过固定次数的限流类
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Service

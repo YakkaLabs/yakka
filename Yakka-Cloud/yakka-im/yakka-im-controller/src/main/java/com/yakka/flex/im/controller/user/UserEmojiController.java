@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * 用户表情包
- * @author Jared
+ * @author 乾乾
  */
 @RestController
 @RequestMapping("/user/emoji")
@@ -35,7 +35,7 @@ public class UserEmojiController {
      * 表情包列表
      *
      * @return 表情包列表
-     * @author Jared
+     * @author 乾乾
      **/
     @GetMapping("/list")
     @Operation(summary = "表情包列表")
@@ -49,7 +49,7 @@ public class UserEmojiController {
      *
      * @param req 用户表情包
      * @return 表情包
-     * @author Jared
+     * @author 乾乾
      **/
     @PostMapping()
     @Operation(summary = "新增表情包")
@@ -61,7 +61,7 @@ public class UserEmojiController {
      * 删除表情包
      *
      * @return 删除结果
-     * @author Jared
+     * @author 乾乾
      **/
     @DeleteMapping()
     @Operation(summary = "删除表情包")

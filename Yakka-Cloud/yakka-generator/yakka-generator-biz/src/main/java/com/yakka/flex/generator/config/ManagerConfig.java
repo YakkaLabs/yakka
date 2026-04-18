@@ -5,7 +5,7 @@ import lombok.NoArgsConstructor;
 import com.yakka.flex.generator.enumeration.SuperClassEnum;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2022/3/9 21:40
  */
 @Data

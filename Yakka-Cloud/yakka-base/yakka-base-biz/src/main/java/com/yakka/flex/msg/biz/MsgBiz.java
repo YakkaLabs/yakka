@@ -32,7 +32,7 @@ import static com.yakka.basic.exception.code.ResponseEnum.BASE_VALID_PARAM;
  * <p>
  * 目的，跨库操作查询（千万不能加 @Transactional,否则跨库失效)
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/7/18 10:36 PM
  * @create [2022/7/18 10:36 PM ] [tangyh] [初始创建]
@@ -118,7 +118,7 @@ public class MsgBiz {
      * @param data    data
      * @param sysUser sysUser
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/24 6:32 PM
      * @create [2022/7/24 6:32 PM ] [tangyh] [初始创建]
      */

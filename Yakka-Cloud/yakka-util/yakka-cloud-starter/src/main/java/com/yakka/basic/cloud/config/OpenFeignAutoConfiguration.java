@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * OpenFeign 配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/07/25
  */
 @Import(YakkaFeignClientsRegistrar.class)

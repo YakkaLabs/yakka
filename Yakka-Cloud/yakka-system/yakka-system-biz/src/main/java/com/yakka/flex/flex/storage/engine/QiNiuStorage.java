@@ -32,7 +32,7 @@ public class QiNiuStorage {
     /**
      * 鉴权令牌
      *
-     * @author Jared
+     * @author 乾乾
      * @return JSONObject
      */
     public JSONObject upToken() {

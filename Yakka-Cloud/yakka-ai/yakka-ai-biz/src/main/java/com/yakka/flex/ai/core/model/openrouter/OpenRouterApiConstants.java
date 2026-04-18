@@ -3,7 +3,7 @@ package com.yakka.flex.ai.core.model.openrouter;
 /**
  * OpenRouter API 常量
  *
- * @author Jared
+ * @author 乾乾
  */
 public final class OpenRouterApiConstants {
 

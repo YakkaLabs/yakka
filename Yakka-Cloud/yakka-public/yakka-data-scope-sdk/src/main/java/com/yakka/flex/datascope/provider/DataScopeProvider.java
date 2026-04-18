@@ -5,7 +5,7 @@ import com.yakka.flex.datascope.model.DataFieldProperty;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2022/1/9 23:28
  */
 public interface DataScopeProvider {
@@ -14,7 +14,7 @@ public interface DataScopeProvider {
      *
      * @param fsp fsp
      * @return java.util.List<com.yakka.flex.datascope.model.DataFieldProperty>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:41 PM
      * @create [2022/10/28 4:41 PM ] [tangyh] [初始创建]
      */

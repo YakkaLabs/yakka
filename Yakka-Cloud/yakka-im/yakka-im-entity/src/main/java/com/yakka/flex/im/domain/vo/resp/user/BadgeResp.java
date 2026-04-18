@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 徽章信息
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Schema(description ="徽章信息")

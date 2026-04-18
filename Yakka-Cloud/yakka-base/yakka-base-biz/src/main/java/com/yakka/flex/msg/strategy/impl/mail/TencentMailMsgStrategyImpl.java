@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * 腾讯邮件
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022/7/10 0010 17:40
  */
 @Slf4j

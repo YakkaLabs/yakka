@@ -15,7 +15,7 @@ import java.util.concurrent.ConcurrentMap;
 /**
  * glue factory, product class/object by name
  *
- * @author Jared
+ * @author 乾乾
  */
 public class GlueFactory {
 
@@ -69,7 +69,7 @@ public class GlueFactory {
      * @param script script
      * @param params params
      * @return java.lang.Object
-     * @author Jared
+     * @author 乾乾
      * @date 2022/7/25 9:35 PM
      * @create [2022/7/25 9:35 PM ] [tangyh] [初始创建]
      * @update [2022/7/25 9:35 PM ] [tangyh] [变更描述]

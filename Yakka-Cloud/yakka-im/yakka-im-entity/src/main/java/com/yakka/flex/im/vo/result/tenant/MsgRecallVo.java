@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 消息撤回
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * web请求信息收集类
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class RequestInfo {

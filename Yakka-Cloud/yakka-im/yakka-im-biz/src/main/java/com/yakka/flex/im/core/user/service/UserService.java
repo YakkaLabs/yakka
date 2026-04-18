@@ -20,7 +20,7 @@ import java.util.List;
  * 用户表 服务类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface UserService {
 

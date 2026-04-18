@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  * 群成员列表的成员信息
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

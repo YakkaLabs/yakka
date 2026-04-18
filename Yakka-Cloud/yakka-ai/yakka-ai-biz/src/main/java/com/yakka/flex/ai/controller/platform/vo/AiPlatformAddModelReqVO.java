@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * AI 平台添加模型 Request VO
  *
- * @author Jared
+ * @author 乾乾
  */
 @Schema(description = "管理后台 - AI 平台添加模型 Request VO")
 @Data

@@ -51,7 +51,7 @@ import static com.yakka.basic.exception.code.ResponseEnum.REQUIRED_FILE_PARAM_EX
 /**
  * 全局异常统一处理
  *
- * @author Jared
+ * @author 乾乾
  * @date 2017-12-13 17:04
  */
 @SuppressWarnings("AlibabaUndefineMagicConstant")

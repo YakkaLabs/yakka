@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 限流策略定义
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class FrequencyControlDTO implements Serializable {

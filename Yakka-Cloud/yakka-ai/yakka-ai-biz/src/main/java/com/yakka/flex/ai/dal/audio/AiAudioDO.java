@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * AI 音频生成 DO
  *
- * @author Jared
+ * @author 乾乾
  */
 @TableName(value = "ai_audio", autoResultMap = true)
 @KeySequence("ai_audio_seq")

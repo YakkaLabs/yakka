@@ -8,7 +8,7 @@ import com.yakka.basic.constant.Constants;
 import com.yakka.flex.model.entity.system.SysUser;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/29 11:05 PM
  * @create [2022/9/29 11:05 PM ] [tangyh] [初始创建]
@@ -20,7 +20,7 @@ public interface SystemApi {
      *
      * @param id 用户ID
      * @return com.yakka.basic.base.R<com.yakka.flex.model.entity.system.SysUser>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:22 PM
      * @create [2022/11/18 2:22 PM ] [tangyh] [初始创建]
      */

@@ -13,7 +13,7 @@ import java.util.List;
  * 员工所在部门
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseEmployeeOrgRelManager extends SuperManager<BaseEmployeeOrgRel> {
@@ -22,7 +22,7 @@ public interface BaseEmployeeOrgRelManager extends SuperManager<BaseEmployeeOrgR
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/26 10:40 PM
      * @create [2022/10/26 10:40 PM ] [tangyh] [初始创建]
      */
@@ -50,7 +50,7 @@ public interface BaseEmployeeOrgRelManager extends SuperManager<BaseEmployeeOrgR
      * 根据机构ID删除机构下的员工
      *
      * @param orgIdList 机构ID
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/25 9:22 PM
      * @create [2022/10/25 9:22 PM ] [tangyh] [初始创建]
      */

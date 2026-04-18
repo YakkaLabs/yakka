@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * xxl-job executor (for frameless)
  *
- * @author Jared 2020-11-05
+ * @author 乾乾 2020-11-05
  */
 public class XxlJobSimpleExecutor extends XxlJobExecutor {
     private static final Logger logger = LoggerFactory.getLogger(XxlJobSimpleExecutor.class);

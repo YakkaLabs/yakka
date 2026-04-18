@@ -20,7 +20,7 @@ import static com.yakka.basic.base.R.success;
 /**
  * AI 平台配置 Controller
  *
- * @author Jared
+ * @author 乾乾
  */
 @Tag(name = "管理后台 - AI 平台配置")
 @RestController

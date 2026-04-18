@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * 编辑黑名单请求
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class BlackEditReq implements Serializable {

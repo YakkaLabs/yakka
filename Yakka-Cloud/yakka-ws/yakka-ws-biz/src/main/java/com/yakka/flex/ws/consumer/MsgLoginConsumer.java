@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 在本地服务上找寻对应channel，将对应用户登陆，并触发所有用户收到上线事件
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @RocketMQMessageListener(consumerGroup = "user_login_send_msg_group", topic = "user_login_send_msg", messageModel = MessageModel.BROADCASTING)

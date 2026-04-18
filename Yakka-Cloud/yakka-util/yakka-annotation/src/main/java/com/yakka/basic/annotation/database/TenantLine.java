@@ -7,7 +7,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/8/24 9:19 PM
  * @create [2022/8/24 9:19 PM ] [tangyh] [初始创建]

@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.UserBackpack;
  * 用户背包表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface UserBackpackMapper extends BaseMapper<UserBackpack> {

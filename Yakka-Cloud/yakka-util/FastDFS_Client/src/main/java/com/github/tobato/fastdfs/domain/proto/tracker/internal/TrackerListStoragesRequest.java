@@ -12,7 +12,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 列出存储状态
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TrackerListStoragesRequest extends FdfsRequest {
 

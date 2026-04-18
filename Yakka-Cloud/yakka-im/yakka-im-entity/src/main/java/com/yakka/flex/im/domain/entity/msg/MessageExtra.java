@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 消息扩展属性
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

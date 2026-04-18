@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 目录服务(Tracker)客户端接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface TrackerClient {
 

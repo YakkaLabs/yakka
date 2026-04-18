@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
  * 用户
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-09
  */
 @Repository
@@ -39,7 +39,7 @@ public interface DefUserMapper extends SuperMapper<DefUser> {
      * @param id  用户id
      * @param now 当前时间
      * @return 被修改了几行数据
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:57 PM
      * @create [2022/10/28 4:57 PM ] [tangyh] [初始创建]
      */

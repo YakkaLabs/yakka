@@ -17,7 +17,7 @@ import java.util.List;
  * <p>实现 {@link VideoModel} 接口，封装 Gitee AI 平台的视频生成功能。
  * 支持文本生成视频(T2V)等视频生成能力。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see VideoModel
  * @see GiteeAiVideoOptions
  * @see GiteeAiVideoApi

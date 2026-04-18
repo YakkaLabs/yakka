@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 数据权限保证类
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/16 9:33 PM
  * @create [2022/9/16 9:33 PM ] [tangyh] [初始创建]
@@ -46,7 +46,7 @@ public class DataScopeHelper {
      * 开启数据权限
      *
      * @param alias sql中需要动态拼接条件的表的别名
-     * @author Jared
+     * @author 乾乾
      * @date 2022/9/16 9:52 PM
      * @create [2022/9/16 9:52 PM ] [tangyh] [初始创建]
      */

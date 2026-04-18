@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * AI 视频生成 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AiVideoService {
 

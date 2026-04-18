@@ -6,7 +6,7 @@ import com.yakka.flex.generator.rules.ColumnType;
 /**
  * 数据库字段类型转换
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/8/12 11:19 AM
  * @create [2022/8/12 11:19 AM ] [tangyh] [初始创建]

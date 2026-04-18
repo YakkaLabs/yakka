@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 功能物品配置表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface ItemConfigMapper extends BaseMapper<ItemConfig> {

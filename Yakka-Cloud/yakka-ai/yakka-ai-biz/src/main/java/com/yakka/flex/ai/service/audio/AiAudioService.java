@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * AI 音频生成 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AiAudioService {
 

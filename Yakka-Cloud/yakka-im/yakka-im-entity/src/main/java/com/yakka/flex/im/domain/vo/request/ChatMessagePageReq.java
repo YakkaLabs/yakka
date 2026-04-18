@@ -11,7 +11,7 @@ import com.yakka.flex.im.domain.vo.req.CursorPageBaseReq;
 
 /**
  * 消息列表请求
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

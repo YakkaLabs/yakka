@@ -13,7 +13,7 @@ import java.util.*;
  * 支持负载均衡对IP轮询
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TrackerLocator {
 

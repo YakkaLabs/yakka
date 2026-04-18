@@ -12,7 +12,7 @@ import java.util.List;
  * 功能物品配置表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class ItemConfigDao extends ServiceImpl<ItemConfigMapper, ItemConfig> {

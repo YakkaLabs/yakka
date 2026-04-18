@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 列出组命令
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TrackerListStoragesCommand extends AbstractFdfsCommand<List<StorageState>> {
 

@@ -6,7 +6,7 @@ import com.yakka.flex.msg.vo.update.ExtendMsgSendVO;
 /**
  * 消息接口
  *
- * @author Jared
+ * @author 乾乾
  * @since 2024年09月20日10:37:50
  *
  */

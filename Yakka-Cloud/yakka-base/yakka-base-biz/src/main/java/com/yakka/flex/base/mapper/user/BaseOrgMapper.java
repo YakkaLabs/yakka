@@ -13,7 +13,7 @@ import java.util.List;
  * 组织
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 @Repository
@@ -25,7 +25,7 @@ public interface BaseOrgMapper extends SuperMapper<BaseOrg> {
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 3:44 PM
      * @create [2022/10/20 3:44 PM ] [tangyh] [初始创建]
      */

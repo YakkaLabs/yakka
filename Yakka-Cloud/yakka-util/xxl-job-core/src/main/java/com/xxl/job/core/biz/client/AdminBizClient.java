@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * admin api test
  *
- * @author Jared 22:14:52
+ * @author 乾乾 22:14:52
  */
 public class AdminBizClient implements AdminBiz {
 

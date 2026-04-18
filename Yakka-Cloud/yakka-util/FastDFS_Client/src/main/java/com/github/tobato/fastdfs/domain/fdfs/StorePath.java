@@ -10,7 +10,7 @@ import com.github.tobato.fastdfs.domain.proto.mapper.FdfsColumn;
 /**
  * 存储文件的路径信息
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorePath {
 

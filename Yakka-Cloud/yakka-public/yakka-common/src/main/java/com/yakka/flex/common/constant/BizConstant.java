@@ -3,7 +3,7 @@ package com.yakka.flex.common.constant;
 /**
  * 业务常量
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/08/06
  */
 public interface BizConstant {

@@ -21,7 +21,7 @@ import java.util.stream.Collectors;
  * 用户联系人表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class UserFriendDao extends ServiceImpl<UserFriendMapper, UserFriend> {

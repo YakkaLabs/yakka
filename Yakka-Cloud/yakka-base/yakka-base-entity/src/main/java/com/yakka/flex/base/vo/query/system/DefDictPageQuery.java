@@ -18,7 +18,7 @@ import java.util.List;
  * 字典
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2021-10-04
  */
 @Data

@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
 
 /**
  * 游标分页工具类
- * @author Jared
+ * @author 乾乾
  */
 public class CursorUtils {
 

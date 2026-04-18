@@ -10,7 +10,7 @@ import java.time.Duration;
  * 视频会议参数 KEY
  * <p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2025/7/28 6:45 下午
  */
 public class UserRoomsCacheKeyBuilder implements CacheKeyBuilder {

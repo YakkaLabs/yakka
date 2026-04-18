@@ -11,7 +11,7 @@ import java.util.Collection;
  * 代码生成字段
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 public interface DefGenTableColumnManager extends SuperManager<DefGenTableColumn> {
@@ -20,7 +20,7 @@ public interface DefGenTableColumnManager extends SuperManager<DefGenTableColumn
      *
      * @param idList idList
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:53 PM
      * @create [2022/10/28 4:53 PM ] [tangyh] [初始创建]
      */

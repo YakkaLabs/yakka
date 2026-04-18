@@ -14,7 +14,7 @@ import java.util.stream.Stream;
  * <p>
  * 若在yakka-core中新增了 基类实体，可以在此增加对应的枚举值
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/05/14
  */
 @Getter

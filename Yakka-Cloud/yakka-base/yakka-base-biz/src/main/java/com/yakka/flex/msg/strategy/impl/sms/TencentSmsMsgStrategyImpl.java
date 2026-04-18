@@ -28,7 +28,7 @@ import java.util.Map;
 /**
  * https://cloud.tencent.com/document/api/382/55981
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022/7/10 0010 17:40
  */
 @Slf4j

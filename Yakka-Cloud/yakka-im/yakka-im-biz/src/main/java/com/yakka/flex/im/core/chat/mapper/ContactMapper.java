@@ -13,7 +13,7 @@ import java.util.List;
  * 会话列表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface ContactMapper extends BaseMapper<Contact> {

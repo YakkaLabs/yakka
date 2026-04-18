@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * 语音消息入参
- * @author Jared
+ * @author 乾乾
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

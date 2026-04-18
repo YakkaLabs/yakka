@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
  * 会话列表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class ContactDao extends ServiceImpl<ContactMapper, Contact> {

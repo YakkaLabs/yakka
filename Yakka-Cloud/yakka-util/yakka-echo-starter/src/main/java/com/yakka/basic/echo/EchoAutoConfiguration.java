@@ -18,7 +18,7 @@ import java.util.Map;
 /**
  * 关联字段数据注入工具 自动配置类
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/09/20
  */
 @Slf4j
@@ -45,7 +45,7 @@ public class EchoAutoConfiguration {
      *
      * @param strategyMap 回显查询实例
      * @return com.yakka.basic.echo.core.EchoService
-     * @author Jared
+     * @author 乾乾
      * @date 2021/8/15 10:17 下午
      * @create [2021/8/15 10:17 下午 ] [tangyh] [初始创建]
      */

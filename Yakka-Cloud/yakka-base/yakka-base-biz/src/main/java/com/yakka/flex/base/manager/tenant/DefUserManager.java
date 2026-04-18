@@ -15,7 +15,7 @@ import java.util.Collection;
  * 用户
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/9/29 1:26 下午
  * @create [2021/9/29 1:26 下午 ] [tangyh] [初始创建]
@@ -61,7 +61,7 @@ public interface DefUserManager extends SuperCacheManager<DefUser>, LoadService 
      * @param username 用户名
      * @param id       用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:22 下午
      * @create [2021/10/10 12:22 下午 ] [tangyh] [初始创建]
      */
@@ -73,7 +73,7 @@ public interface DefUserManager extends SuperCacheManager<DefUser>, LoadService 
      * @param email 邮箱
      * @param id    用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:23 下午
      * @create [2021/10/10 12:23 下午 ] [tangyh] [初始创建]
      */
@@ -85,7 +85,7 @@ public interface DefUserManager extends SuperCacheManager<DefUser>, LoadService 
      * @param mobile 手机号
      * @param id     用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:24 下午
      * @create [2021/10/10 12:24 下午 ] [tangyh] [初始创建]
      */
@@ -97,7 +97,7 @@ public interface DefUserManager extends SuperCacheManager<DefUser>, LoadService 
      * @param idCard 身份证
      * @param id     用户id
      * @return boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/10/10 12:24 下午
      * @create [2021/10/10 12:24 下午 ] [tangyh] [初始创建]
      */

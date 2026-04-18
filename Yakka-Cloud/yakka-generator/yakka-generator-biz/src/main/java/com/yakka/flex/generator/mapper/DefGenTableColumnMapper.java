@@ -11,7 +11,7 @@ import com.yakka.flex.generator.entity.DefGenTableColumn;
  * 代码生成字段
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 @Repository

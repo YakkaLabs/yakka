@@ -3,7 +3,7 @@ package com.yakka.flex.oauth.service;
 import com.yakka.flex.model.entity.base.IpInfo;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public interface IpService {
     /**

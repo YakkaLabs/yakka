@@ -6,7 +6,7 @@ import com.yakka.basic.exception.code.ResponseEnum;
 /**
  * 401 未认证 未登录
  *
- * @author Jared
+ * @author 乾乾
  * @version 1.0
  */
 public class UnauthorizedException extends BaseUncheckedException {

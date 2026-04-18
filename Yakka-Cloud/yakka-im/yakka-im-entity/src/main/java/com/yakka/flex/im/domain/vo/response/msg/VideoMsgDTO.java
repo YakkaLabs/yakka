@@ -16,7 +16,7 @@ import java.util.List;
 
 /**
  * 视频消息入参
- * @author Jared
+ * @author 乾乾
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

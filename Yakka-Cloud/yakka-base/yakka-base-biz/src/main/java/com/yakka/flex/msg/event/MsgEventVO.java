@@ -6,7 +6,7 @@ import lombok.experimental.Accessors;
 import com.yakka.flex.model.vo.BaseEventVO;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/7/29 10:08 PM
  * @create [2022/7/29 10:08 PM ] [tangyh] [初始创建]

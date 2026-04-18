@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * AI 视频生成 Controller
  *
- * @author Jared
+ * @author 乾乾
  */
 @Tag(name = "管理后台 - AI 视频生成")
 @RestController

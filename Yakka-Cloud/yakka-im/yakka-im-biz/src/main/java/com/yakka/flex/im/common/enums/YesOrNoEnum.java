@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 /**
  * ws前端请求类型枚举
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Getter

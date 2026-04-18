@@ -13,7 +13,7 @@ import java.util.List;
  * 角色
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 @Repository
@@ -24,7 +24,7 @@ public interface BaseRoleMapper extends SuperMapper<BaseRole> {
      *
      * @param roleIds roleIds
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2021/12/28 12:22 上午
      * @create [2021/12/28 12:22 上午 ] [tangyh] [初始创建]
      */
@@ -35,7 +35,7 @@ public interface BaseRoleMapper extends SuperMapper<BaseRole> {
      *
      * @param orgId orgId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 4:06 PM
      * @create [2022/10/20 4:06 PM ] [tangyh] [初始创建]
      */
@@ -46,7 +46,7 @@ public interface BaseRoleMapper extends SuperMapper<BaseRole> {
      *
      * @param employeeId employeeId
      * @return java.util.List<java.lang.Long>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 3:44 PM
      * @create [2022/10/20 3:44 PM ] [tangyh] [初始创建]
      */
@@ -58,7 +58,7 @@ public interface BaseRoleMapper extends SuperMapper<BaseRole> {
      * @param employeeId 员工id
      * @param codes      角色编码
      * @return java.util.List<BaseRole> 角色
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/20 3:44 PM
      * @create [2022/10/20 3:44 PM ] [tangyh] [初始创建]
      */

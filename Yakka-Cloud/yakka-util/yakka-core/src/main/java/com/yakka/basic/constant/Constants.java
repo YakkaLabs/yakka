@@ -3,7 +3,7 @@ package com.yakka.basic.constant;
 /**
  * 全局基础常量
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/12 11:05 PM
  * @create [2022/4/12 11:05 PM ] [tangyh] [初始创建]

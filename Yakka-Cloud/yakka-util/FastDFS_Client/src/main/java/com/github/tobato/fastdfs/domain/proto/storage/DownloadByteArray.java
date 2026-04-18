@@ -8,7 +8,7 @@ import org.apache.commons.io.IOUtils;
 /**
  * 下载为byte流
  *
- * @author Jared
+ * @author 乾乾
  */
 public class DownloadByteArray implements DownloadCallback<byte[]> {
 

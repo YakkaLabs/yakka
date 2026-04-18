@@ -25,7 +25,7 @@ import java.util.Objects;
 
 /**
  * 目前架构ws服务无法处理业务，客户端回执给ws服务之后进行mq跳转至此
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @RocketMQMessageListener(consumerGroup = MqConstant.MSG_PUSH_ACK_TOPIC_GROUP, topic = MqConstant.MSG_PUSH_ACK_TOPIC, messageModel = MessageModel.CLUSTERING)

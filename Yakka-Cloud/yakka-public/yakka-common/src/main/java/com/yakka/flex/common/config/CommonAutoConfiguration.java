@@ -16,7 +16,7 @@ import com.yakka.flex.common.properties.IgnoreProperties;
 import com.yakka.flex.common.properties.SystemProperties;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/9/5 8:04 下午
  * @create [2021/9/5 8:04 下午 ] [tangyh] [初始创建]

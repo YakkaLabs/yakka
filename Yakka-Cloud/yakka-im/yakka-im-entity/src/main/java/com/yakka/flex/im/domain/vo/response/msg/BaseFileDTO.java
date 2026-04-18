@@ -14,7 +14,7 @@ import java.io.Serializable;
 
 /**
  * 文件基类
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @SuperBuilder

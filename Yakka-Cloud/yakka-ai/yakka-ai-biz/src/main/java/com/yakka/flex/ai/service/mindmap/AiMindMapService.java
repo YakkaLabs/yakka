@@ -10,7 +10,7 @@ import reactor.core.publisher.Flux;
 /**
  * AI 思维导图 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AiMindMapService {
 

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 import com.yakka.basic.base.mapper.SuperMapper;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2024-04-18
  */
 @Repository

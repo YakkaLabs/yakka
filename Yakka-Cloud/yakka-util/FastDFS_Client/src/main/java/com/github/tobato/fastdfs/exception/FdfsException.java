@@ -3,8 +3,8 @@ package com.github.tobato.fastdfs.exception;
 /**
  * 封装fastdfs的异常，使用运行时异常
  * 
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  * 
  */
 public abstract class FdfsException extends RuntimeException {

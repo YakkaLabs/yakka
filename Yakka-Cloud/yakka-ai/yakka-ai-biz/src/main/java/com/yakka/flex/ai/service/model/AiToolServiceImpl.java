@@ -23,7 +23,7 @@ import static com.yakka.flex.ai.utils.ServiceExceptionUtil.exception;
 /**
  * AI 工具 Service 实现类
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Validated

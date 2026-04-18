@@ -20,7 +20,7 @@ import static com.yakka.basic.xss.filter.XssFilter.IGNORE_PATH;
 /**
  * XSS 跨站攻击自动配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/07/25
  */
 @AllArgsConstructor

@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * 数据字典API
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/07/26
  */
 @FeignClient(name = "${" + Constants.PROJECT_PREFIX + ".feign.oauth-server:yakka-oauth-server}")

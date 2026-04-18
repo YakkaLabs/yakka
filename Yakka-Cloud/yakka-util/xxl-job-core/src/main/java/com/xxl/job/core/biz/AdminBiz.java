@@ -7,7 +7,7 @@ import com.xxl.job.core.biz.model.ReturnT;
 import java.util.List;
 
 /**
- * @author Jared 21:52:49
+ * @author 乾乾 21:52:49
  */
 public interface AdminBiz {
 

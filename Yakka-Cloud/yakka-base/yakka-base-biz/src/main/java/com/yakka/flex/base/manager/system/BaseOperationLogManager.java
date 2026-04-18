@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * 操作日志
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-11-08
  */
 public interface BaseOperationLogManager extends SuperManager<BaseOperationLog> {

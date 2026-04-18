@@ -14,7 +14,7 @@ import java.util.Set;
  * <p>实现 {@link AudioModel} 接口，封装 Gitee AI 平台的音频生成功能。
  * 注意：Gitee AI 的音频接口和 OpenAI 不完全兼容，不支持 voice 参数。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see AudioModel
  * @see GiteeAiAudioOptions
  */

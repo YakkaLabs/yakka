@@ -3,7 +3,7 @@ package com.yakka.flex.msg.strategy.domain.sms;
 import lombok.Data;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2021/7/15 16:13
  */
 @Data

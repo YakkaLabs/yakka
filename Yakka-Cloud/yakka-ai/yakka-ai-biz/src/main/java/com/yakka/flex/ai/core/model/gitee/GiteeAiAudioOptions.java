@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
  * <p>实现 {@link AudioOptions} 接口，封装 Gitee AI 平台的音频生成参数。
  * Gitee AI 兼容 OpenAI 的 TTS 接口，支持文本转语音(TTS)功能。</p>
  *
- * @author Jared
+ * @author 乾乾
  * @see AudioOptions
  * @see <a href="https://ai.gitee.com/docs">Gitee AI 文档</a>
  */

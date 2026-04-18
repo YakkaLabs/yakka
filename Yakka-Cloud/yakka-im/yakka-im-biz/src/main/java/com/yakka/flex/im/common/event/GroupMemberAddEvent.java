@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Getter
 public class GroupMemberAddEvent extends ApplicationEvent {

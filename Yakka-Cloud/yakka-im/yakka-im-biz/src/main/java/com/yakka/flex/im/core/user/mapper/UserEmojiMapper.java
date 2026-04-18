@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.UserEmoji;
  * 用户表情包 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface UserEmojiMapper extends BaseMapper<UserEmoji> {

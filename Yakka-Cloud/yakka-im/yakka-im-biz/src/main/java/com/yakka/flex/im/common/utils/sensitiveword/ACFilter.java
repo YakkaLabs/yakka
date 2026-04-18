@@ -12,7 +12,7 @@ import java.util.Objects;
  * 为了兼容提供了相同的api接口 {@code hasSensitiveWord}
  * <p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2023/6/18
  */
 public class ACFilter implements SensitiveWordFilter {

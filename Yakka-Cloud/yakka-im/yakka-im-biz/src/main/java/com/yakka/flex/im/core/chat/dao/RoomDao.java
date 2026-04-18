@@ -15,7 +15,7 @@ import java.util.List;
  * 房间表 服务实现类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 public class RoomDao extends ServiceImpl<RoomMapper, Room> implements IService<Room> {

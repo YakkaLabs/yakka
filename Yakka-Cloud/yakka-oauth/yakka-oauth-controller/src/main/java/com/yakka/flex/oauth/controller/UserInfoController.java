@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 认证Controller
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020年03月31日10:10:36
  */
 @Slf4j

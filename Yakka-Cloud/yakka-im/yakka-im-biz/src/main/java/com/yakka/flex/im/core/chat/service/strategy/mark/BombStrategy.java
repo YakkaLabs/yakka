@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 炸弹标记策略
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class BombStrategy extends AbstractMsgMarkStrategy {

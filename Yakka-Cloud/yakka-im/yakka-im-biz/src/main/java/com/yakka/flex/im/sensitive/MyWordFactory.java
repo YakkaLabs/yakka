@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class MyWordFactory implements IWordFactory {

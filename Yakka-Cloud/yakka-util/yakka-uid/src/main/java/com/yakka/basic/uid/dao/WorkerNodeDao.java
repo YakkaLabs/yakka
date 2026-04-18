@@ -25,7 +25,7 @@ import org.springframework.stereotype.Repository;
 /**
  * DAO for M_WORKER_NODE
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 @InterceptorIgnore(tenantLine = "true", dynamicTableName = "true")

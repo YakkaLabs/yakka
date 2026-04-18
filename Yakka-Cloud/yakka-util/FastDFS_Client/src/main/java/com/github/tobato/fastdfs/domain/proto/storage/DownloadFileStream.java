@@ -22,7 +22,7 @@ import java.io.OutputStream;
  *
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 public class DownloadFileStream implements DownloadCallback<BufferedInputStream> {
 

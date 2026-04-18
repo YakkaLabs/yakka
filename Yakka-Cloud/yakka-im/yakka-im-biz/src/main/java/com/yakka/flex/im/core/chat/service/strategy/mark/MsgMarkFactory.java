@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 消息标记策略工厂
- * @author Jared
+ * @author 乾乾
  */
 public class MsgMarkFactory {
     private static final Map<Integer, AbstractMsgMarkStrategy> STRATEGY_MAP = new HashMap<>();

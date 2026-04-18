@@ -21,7 +21,7 @@ import static com.yakka.flex.model.constant.Condition.LIKE;
  * 地区表
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2021-10-15
  */
 @Data

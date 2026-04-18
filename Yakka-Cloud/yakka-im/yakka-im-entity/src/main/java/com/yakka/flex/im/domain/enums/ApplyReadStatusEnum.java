@@ -5,7 +5,7 @@ import lombok.Getter;
 
 /**
  * 申请阅读状态枚举
- * @author Jared
+ * @author 乾乾
  */
 @Getter
 @AllArgsConstructor

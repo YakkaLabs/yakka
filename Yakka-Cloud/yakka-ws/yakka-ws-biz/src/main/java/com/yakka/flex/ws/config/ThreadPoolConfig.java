@@ -16,7 +16,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 自定义线程池配置
  *
- * @author Jared
+ * @author 乾乾
  */
 @Configuration
 @EnableAsync

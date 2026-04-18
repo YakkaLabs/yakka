@@ -18,7 +18,7 @@ import java.util.Map;
  * 资源
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-09-13
  */
 public interface DefResourceService extends SuperCacheService<Long, DefResource> {
@@ -34,7 +34,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * @param applicationIdList 应用ID
      * @param resourceTypes     资源类型
      * @return java.util.List<com.yakka.flex.system.entity.application.DefResource>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/22 12:13 PM
      * @create [2022/10/22 12:13 PM ] [tangyh] [初始创建]
      */
@@ -46,7 +46,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * @param idList 资源ID
      * @param types  资源类型
      * @return java.util.List<com.yakka.flex.model.entity.system.SysResource>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/24 8:50 AM
      * @create [2022/10/24 8:50 AM ] [tangyh] [初始创建]
      */
@@ -58,7 +58,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * @param id   资源id
      * @param code 资源编码
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/6/5 9:33 上午
      * @create [2021/6/5 9:33 上午 ] [tangyh] [初始创建]
      */
@@ -76,7 +76,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * 根据资源ID删除角色资源 关联关系
      *
      * @param resourceIds resourceIds
-     * @author Jared
+     * @author 乾乾
      * @date 2022/4/12 12:57 PM
      * @create [2022/4/12 12:57 PM ] [tangyh] [初始创建]
      */
@@ -96,7 +96,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      *
      * @param data 资源数据
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/14 8:49 下午
      * @create [2021/9/14 8:49 下午 ] [tangyh] [初始创建]
      */
@@ -107,7 +107,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      *
      * @param id       需要移动的节点ID
      * @param parentId 待移动的节点ID 为空时，表示移动到根节点
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/13 5:08 PM
      * @create [2022/10/13 5:08 PM ] [tangyh] [初始创建]
      */
@@ -120,7 +120,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * @param applicationId 应用ID
      * @param path          菜单或视图 地址栏地址
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/18 2:50 下午
      * @create [2021/9/18 2:50 下午 ] [tangyh] [初始创建]
      */
@@ -133,7 +133,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * @param applicationId 应用ID
      * @param name          菜单或视图 名称
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/18 2:50 下午
      * @create [2021/9/18 2:50 下午 ] [tangyh] [初始创建]
      */
@@ -144,7 +144,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      *
      * @param id id
      * @return com.yakka.flex.tenant.vo.result.tenant.DefResourceResultVO
-     * @author Jared
+     * @author 乾乾
      * @date 2021/9/20 6:47 下午
      * @create [2021/9/20 6:47 下午 ] [tangyh] [初始创建]
      */
@@ -154,7 +154,7 @@ public interface DefResourceService extends SuperCacheService<Long, DefResource>
      * 查找所有可用的资源
      *
      * @return java.util.Map<java.lang.Long, java.util.Collection < java.lang.Long>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/17 7:29 PM
      * @create [2022/10/17 7:29 PM ] [tangyh] [初始创建]
      */

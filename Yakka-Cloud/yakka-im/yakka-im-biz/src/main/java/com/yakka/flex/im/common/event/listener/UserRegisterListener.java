@@ -17,7 +17,7 @@ import static com.yakka.flex.im.common.config.ThreadPoolConfig.YAKKA_EXECUTOR;
 
 /**
  * 用户注册监听器
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Component

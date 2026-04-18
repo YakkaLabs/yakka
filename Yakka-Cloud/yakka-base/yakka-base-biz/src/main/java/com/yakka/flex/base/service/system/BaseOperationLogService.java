@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  * 操作日志
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-11-08
  */
 public interface BaseOperationLogService extends SuperService<Long, BaseOperationLog> {
@@ -31,7 +31,7 @@ public interface BaseOperationLogService extends SuperService<Long, BaseOperatio
      *
      * @param id id
      * @return com.yakka.flex.base.vo.result.system.BaseOperationLogResultVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/13 10:31 AM
      * @create [2022/10/13 10:31 AM ] [tangyh] [初始创建]
      */

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 笑哭标记策略
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class LOLStrategy extends AbstractMsgMarkStrategy {

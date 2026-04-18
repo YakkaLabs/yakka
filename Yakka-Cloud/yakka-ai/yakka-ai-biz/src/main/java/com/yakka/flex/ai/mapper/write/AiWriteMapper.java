@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 /**
  * AI 写作 Mapper
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface AiWriteMapper extends BaseMapperX<AiWriteDO> {

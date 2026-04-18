@@ -23,8 +23,8 @@ import com.yakka.flex.oauth.vo.result.LoginResultVO;
 /**
  * 授予token接口
  *
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  * @date 2020年03月31日10:21:21
  */
 public interface TokenGranter {
@@ -49,7 +49,7 @@ public interface TokenGranter {
      *
      * @param orgId    机构ID
      * @return com.yakka.flex.oauth.vo.result.LoginResultVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/9/16 1:14 PM
      * @create [2022/9/16 1:14 PM ] [tangyh] [初始创建]
      */

@@ -10,7 +10,7 @@ import java.time.Duration;
 /**
  * 缓存 key 封装
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @AllArgsConstructor

@@ -6,7 +6,7 @@ import com.yakka.flex.im.domain.dto.ChatMessageMarkDTO;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Getter
 public class MessageMarkEvent extends ApplicationEvent {

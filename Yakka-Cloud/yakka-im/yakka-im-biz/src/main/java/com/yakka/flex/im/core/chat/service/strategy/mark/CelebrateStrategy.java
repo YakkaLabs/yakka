@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 礼炮标记策略
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class CelebrateStrategy extends AbstractMsgMarkStrategy {

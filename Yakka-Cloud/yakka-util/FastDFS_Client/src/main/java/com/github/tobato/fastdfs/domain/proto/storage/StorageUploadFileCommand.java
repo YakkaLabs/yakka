@@ -10,7 +10,7 @@ import java.io.InputStream;
 /**
  * 文件上传命令
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageUploadFileCommand extends AbstractFdfsCommand<StorePath> {
 

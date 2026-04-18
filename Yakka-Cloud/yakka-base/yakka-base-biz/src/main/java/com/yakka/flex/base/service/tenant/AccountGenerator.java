@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * 账号生成器
  * 生成11位纯数字账号
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Component

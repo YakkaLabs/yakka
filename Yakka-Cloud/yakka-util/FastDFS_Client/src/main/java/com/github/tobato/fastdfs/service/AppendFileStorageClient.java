@@ -12,7 +12,7 @@ import java.io.InputStream;
  * 适合处理大文件，分段传输
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AppendFileStorageClient extends GenerateStorageClient {
 

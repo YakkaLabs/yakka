@@ -5,7 +5,7 @@ import lombok.Getter;
 /**
  * 应用授权枚举
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021/3/15 3:34 下午
  */
 @Getter

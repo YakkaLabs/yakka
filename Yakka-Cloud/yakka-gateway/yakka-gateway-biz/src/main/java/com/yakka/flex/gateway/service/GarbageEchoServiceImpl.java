@@ -5,7 +5,7 @@ import com.yakka.basic.interfaces.echo.EchoService;
 /**
  * 这个类仅仅是为了防止在gateway启动报错
  *
- * @author Jared
+ * @author 乾乾
  * @since 2024/8/8 23:06
  */
 public class GarbageEchoServiceImpl implements EchoService {

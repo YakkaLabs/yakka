@@ -11,7 +11,7 @@ import com.yakka.basic.xss.utils.XssUtils;
  * 基于xss的 json 序列化器
  * 在本项目中，没有使用该类
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/06/28
  */
 @Slf4j

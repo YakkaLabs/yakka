@@ -2,7 +2,7 @@ package com.yakka.flex.oauth.facade;
 
 /**
  * 验证码
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @since 2024年09月20日15:41:02
  */

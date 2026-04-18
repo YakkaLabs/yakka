@@ -13,7 +13,7 @@ import java.util.List;
  * 员工
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-27
  */
 public interface DefUserTenantRelService extends SuperCacheService<Long, DefUserTenantRel> {
@@ -22,7 +22,7 @@ public interface DefUserTenantRelService extends SuperCacheService<Long, DefUser
      *
      * @param queryWrapper queryWrapper
      * @return long
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:57 PM
      * @create [2022/10/28 4:57 PM ] [tangyh] [初始创建]
      */

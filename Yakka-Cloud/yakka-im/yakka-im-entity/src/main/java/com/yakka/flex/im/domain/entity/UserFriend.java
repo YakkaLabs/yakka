@@ -12,7 +12,7 @@ import lombok.EqualsAndHashCode;
  * 用户联系人表
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 /**
  * 文件 存储类型 枚举
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/05/06
  */
 @Getter

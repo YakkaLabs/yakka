@@ -18,7 +18,7 @@ import java.util.Set;
  * 组织
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 public interface BaseOrgService extends SuperCacheService<Long, BaseOrg> {
@@ -79,7 +79,7 @@ public interface BaseOrgService extends SuperCacheService<Long, BaseOrg> {
      * @param employeeId 员工ID
      * @param companyId  公司ID
      * @return java.util.List<com.yakka.flex.base.entity.user.BaseOrg>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/26 10:59 PM
      * @create [2022/10/26 10:59 PM ] [tangyh] [初始创建]
      */
@@ -91,7 +91,7 @@ public interface BaseOrgService extends SuperCacheService<Long, BaseOrg> {
      *
      * @param employeeId 员工ID
      * @return java.util.List<com.yakka.flex.model.entity.base.SysOrg>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/26 10:29 PM
      * @create [2022/10/26 10:29 PM ] [tangyh] [初始创建]
      */
@@ -103,7 +103,7 @@ public interface BaseOrgService extends SuperCacheService<Long, BaseOrg> {
      * @param orgList   公司 或 部门列表
      * @param lastOrgId 最后一次登录的公司ID 或 部门Id
      * @return com.yakka.flex.base.entity.user.BaseOrg
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/26 10:27 PM
      * @create [2022/10/26 10:27 PM ] [tangyh] [初始创建]
      */

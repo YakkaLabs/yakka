@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 登录配置
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021/1/28 7:57 下午
  */
 @Setter
@@ -72,7 +72,7 @@ public class SystemProperties {
     /**
      * 缓存Key前缀
      *
-     * @author Jared
+     * @author 乾乾
      * @date 2023/5/15 9:28 AM
      * @create [2023/5/15 9:28 AM ] [tangyh] [初始创建]
      */

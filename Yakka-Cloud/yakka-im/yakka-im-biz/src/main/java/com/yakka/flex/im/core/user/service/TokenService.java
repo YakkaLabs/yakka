@@ -4,7 +4,7 @@ import com.yakka.flex.im.domain.vo.req.user.RefreshTokenReq;
 import com.yakka.flex.im.domain.vo.resp.user.LoginResultVO;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public interface TokenService {
 

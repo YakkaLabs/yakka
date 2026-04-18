@@ -18,7 +18,7 @@ import java.net.InetSocketAddress;
  * FdfsConnectionManager类扩展的子类{@link TrackerConnectionManager}主要负责TrackerConnection连接管理
  * </pre>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class FdfsConnectionManager {

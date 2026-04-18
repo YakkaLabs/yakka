@@ -10,7 +10,7 @@ import com.yakka.basic.interfaces.validator.IValidatable;
 /**
  * 自定义一个验证 NotNull 的校验器。自定义类需要实现IValidatable接口
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020年02月02日20:59:21
  */
 public class NotNullConstraintValidator implements ConstraintValidator<NotNull, IValidatable> {

@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 基础服务
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/29 11:05 PM
  * @create [2022/9/29 11:05 PM ] [tangyh] [初始创建]
@@ -27,7 +27,7 @@ public interface BaseApi {
      *
      * @param id 员工ID
      * @return com.yakka.basic.base.R<com.yakka.flex.model.entity.base.SysEmployee>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */
@@ -39,7 +39,7 @@ public interface BaseApi {
      *
      * @param id 机构
      * @return com.yakka.basic.base.R<com.yakka.flex.model.entity.base.SysOrg>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */
@@ -51,7 +51,7 @@ public interface BaseApi {
      *
      * @param id 岗位ID
      * @return com.yakka.basic.base.R<com.yakka.flex.model.entity.base.SysPosition>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */
@@ -63,7 +63,7 @@ public interface BaseApi {
      *
      * @param employeeId 员工ID
      * @return com.yakka.basic.base.R<java.util.List < java.lang.String>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */
@@ -76,7 +76,7 @@ public interface BaseApi {
      * @param employeeId 员工ID
      * @param companyId  公司ID
      * @return com.yakka.basic.base.R<java.util.List < com.yakka.flex.model.entity.base.SysOrg>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */
@@ -88,7 +88,7 @@ public interface BaseApi {
      *
      * @param employeeId 员工
      * @return com.yakka.basic.base.R<java.util.List < com.yakka.flex.model.entity.base.SysOrg>>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/11/18 2:26 PM
      * @create [2022/11/18 2:26 PM ] [tangyh] [初始创建]
      */

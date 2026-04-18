@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  * 热点枚举
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Getter

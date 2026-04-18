@@ -20,7 +20,7 @@ import static com.yakka.basic.context.ContextConstants.JWT_KEY_U_ID;
 /**
  * sa-token 权限实现
  *
- * @author Jared
+ * @author 乾乾
  * @since 2024/7/26 17:35
  */
 @Component

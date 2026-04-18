@@ -38,7 +38,7 @@ import static com.yakka.basic.context.ContextConstants.JWT_KEY_SYSTEM_TYPE;
 
 /**
  *注册 Sa-Token全局过滤器
- * @author Jared
+ * @author 乾乾
  * @since 2024/8/6 16:33
  */
 @Component

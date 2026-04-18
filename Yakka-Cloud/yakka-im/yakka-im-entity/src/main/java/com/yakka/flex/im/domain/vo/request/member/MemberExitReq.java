@@ -10,7 +10,7 @@ import jakarta.validation.constraints.NotNull;
 
 /**
  * 退出群聊
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

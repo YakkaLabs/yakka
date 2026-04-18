@@ -3,7 +3,7 @@ package com.yakka.basic.cache.properties;
 /**
  * 缓存类型
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020/9/22 3:34 下午
  */
 public enum CacheType {

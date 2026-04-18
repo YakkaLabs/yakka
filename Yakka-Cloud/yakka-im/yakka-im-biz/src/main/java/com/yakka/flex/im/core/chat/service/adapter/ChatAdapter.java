@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public class ChatAdapter {
     public static final String SEPARATOR = ",";

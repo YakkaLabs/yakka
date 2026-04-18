@@ -7,7 +7,7 @@ import com.yakka.flex.im.domain.enums.RoleTypeEnum;
  * 角色表 服务类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface RoleService {
     /**

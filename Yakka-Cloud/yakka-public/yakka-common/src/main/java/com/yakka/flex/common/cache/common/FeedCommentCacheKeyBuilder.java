@@ -10,7 +10,7 @@ import java.time.Duration;
 
 /**
  * 朋友圈评论缓存  朋友圈ID -> 评论列表
- * @author Jared
+ * @author 乾乾
  */
 public class FeedCommentCacheKeyBuilder implements CacheKeyBuilder {
     public static CacheHashKey build(Long feedId) {

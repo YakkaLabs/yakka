@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 /**
  * 物品类型枚举
- * @author Jared
+ * @author 乾乾
  */
 @AllArgsConstructor
 @Getter

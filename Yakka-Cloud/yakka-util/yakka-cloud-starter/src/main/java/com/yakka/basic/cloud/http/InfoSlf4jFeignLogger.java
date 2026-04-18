@@ -16,7 +16,7 @@ package com.yakka.basic.cloud.http;
 import org.slf4j.Logger;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2020/8/9 上午10:01
  */
 public class InfoSlf4jFeignLogger extends feign.Logger {

@@ -11,7 +11,7 @@ import com.yakka.flex.base.entity.system.DefArea;
  * 地区表
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-13
  */
 @Repository

@@ -20,7 +20,7 @@ import static com.yakka.flex.im.common.config.ThreadPoolConfig.YAKKA_EXECUTOR;
 /**
  * 邀请群成员监听器
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Component

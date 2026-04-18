@@ -40,7 +40,7 @@ import java.util.Set;
 /**
  * 发送消息更新房间收信箱，并同步给房间成员信箱
  * 加入 在途消息缓存，三秒没有回执则再次推送
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @RocketMQMessageListener(consumerGroup = MqConstant.MSG_PUSH_OUTPUT_TOPIC_GROUP, topic = MqConstant.MSG_PUSH_OUTPUT_TOPIC, messageModel = MessageModel.CLUSTERING)

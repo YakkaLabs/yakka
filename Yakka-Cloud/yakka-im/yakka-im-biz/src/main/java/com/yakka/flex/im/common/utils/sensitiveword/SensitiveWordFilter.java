@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 敏感词过滤
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface SensitiveWordFilter {
     /**

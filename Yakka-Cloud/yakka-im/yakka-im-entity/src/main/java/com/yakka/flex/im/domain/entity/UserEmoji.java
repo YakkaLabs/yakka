@@ -9,7 +9,7 @@ import lombok.*;
  * 用户表情包
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

@@ -11,7 +11,7 @@ import com.yakka.flex.generator.entity.DefGenTable;
  * 代码生成
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 @Repository

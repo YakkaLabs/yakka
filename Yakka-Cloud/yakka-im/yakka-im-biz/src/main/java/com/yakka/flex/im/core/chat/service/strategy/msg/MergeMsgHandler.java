@@ -20,7 +20,7 @@ import static com.yakka.flex.im.domain.enums.MessageTypeEnum.*;
 
 /**
  * 合并消息
- * @author Jared
+ * @author 乾乾
  */
 @Component
 @AllArgsConstructor

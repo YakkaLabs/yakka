@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * AI 聊天消息 Service 接口
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface AiChatMessageService {
 

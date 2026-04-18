@@ -21,7 +21,7 @@ import static com.yakka.basic.context.ContextConstants.APPLICATION_ID_KEY;
 /**
  * 用户信息解析器 一定要在AuthenticationFilter之前执行
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2021/12/28 2:36 下午
  * @create [2021/12/28 2:36 下午 ] [tangyh] [初始创建]

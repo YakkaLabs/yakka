@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * netty + WebFlux 混合配置
  * 功能：配置WebSocket路由、Netty参数调优、Servlet容器兼容
- * @author Jared
+ * @author 乾乾
  * @date 2025-06-08
  */
 @Slf4j

@@ -19,7 +19,7 @@ import java.util.Map;
  * 节点消息消费者，负责处理推送到本节点的消息，并将消息分发给对应的用户会话
  *
  * 使用线程池按用户ID（根据CPU的核心数量智能分配）分片处理，保证同一用户的消息顺序性。
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @RocketMQMessageListener(

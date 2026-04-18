@@ -22,7 +22,7 @@ import com.yakka.basic.log.properties.OptLogProperties;
  * 1，存在web环境
  * 2，配置文件中yakka.log.enabled=true 或者 配置文件中不存在：yakka.log.enabled 值
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/2/1
  */
 @EnableAsync

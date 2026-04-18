@@ -11,7 +11,7 @@ import com.yakka.basic.boot.config.BaseConfig;
 /**
  * xxl-job config
  *
- * @author Jared
+ * @author 乾乾
  */
 @Configuration
 public class XxlJobConfig extends BaseConfig {

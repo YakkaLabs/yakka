@@ -10,7 +10,7 @@ import com.yakka.flex.base.entity.user.BaseEmployee;
 /**
  * 仅仅测试使用
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021-10-18
  */
 @Repository
@@ -21,7 +21,7 @@ public interface BaseEmployeeTestMapper extends SuperMapper<BaseEmployee> {
      *
      * @param id id
      * @return com.yakka.flex.base.entity.user.BaseEmployee
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:38 PM
      */
     @TenantLine(false)

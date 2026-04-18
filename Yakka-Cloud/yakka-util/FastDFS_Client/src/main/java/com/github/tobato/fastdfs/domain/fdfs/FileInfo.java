@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 /**
  * 文件的基础信息
  *
- * @author Jared
+ * @author 乾乾
  */
 public class FileInfo {
     /**

@@ -47,8 +47,8 @@ import static com.yakka.flex.oauth.granter.PasswordTokenGranter.GRANT_TYPE;
 /**
  * 账号密码登录获取token
  *
- * @author Jared
- * @author Jared
+ * @author 乾乾
+ * @author 乾乾
  * @date 2020年03月31日10:22:55
  */
 @Component(GRANT_TYPE)

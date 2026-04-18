@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * 消息推送延迟二次推送专属消费者 [系统自己发起]
  * 收到重试消息之后判断路由的uid是否传递的消息是否还在途中，再途的话再次发送
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @RocketMQMessageListener(

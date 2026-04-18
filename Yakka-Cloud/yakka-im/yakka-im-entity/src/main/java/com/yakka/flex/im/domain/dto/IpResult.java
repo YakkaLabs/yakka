@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.Objects;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class IpResult<T> implements Serializable {

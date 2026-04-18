@@ -3,7 +3,7 @@ package com.github.tobato.fastdfs.exception;
 /**
  * 从Url解析StorePath文件路径对象错误
  * 
- * @author Jared
+ * @author 乾乾
  *
  */
 public class FdfsUnsupportStorePathException extends FdfsException {

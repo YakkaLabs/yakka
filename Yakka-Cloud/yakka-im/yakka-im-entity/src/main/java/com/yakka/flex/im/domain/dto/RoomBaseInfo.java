@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 
 /**
  * 房间详情
- * @author Jared
+ * @author 乾乾
  */
 @Data
 public class RoomBaseInfo {

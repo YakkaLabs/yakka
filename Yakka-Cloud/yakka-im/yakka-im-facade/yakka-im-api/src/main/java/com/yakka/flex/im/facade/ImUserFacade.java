@@ -6,7 +6,7 @@ import com.yakka.flex.im.domain.vo.resp.user.UserInfoResp;
 /**
  * 用户
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019/07/02
  */
 public interface ImUserFacade extends LoadService {

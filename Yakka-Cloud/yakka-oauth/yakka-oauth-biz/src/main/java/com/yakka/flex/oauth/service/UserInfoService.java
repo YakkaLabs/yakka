@@ -9,7 +9,7 @@ import com.yakka.flex.oauth.vo.result.OrgResultVO;
 import java.util.List;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/16 12:21 PM
  * @create [2022/9/16 12:21 PM ] [tangyh] [初始创建]
@@ -21,7 +21,7 @@ public interface UserInfoService {
      * @param companyId 单位ID
      * @param employeeId  员工id
      * @return java.util.List<com.yakka.flex.model.entity.base.SysOrg>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/9/29 11:18 PM
      * @create [2022/9/29 11:18 PM ] [tangyh] [初始创建]
      */
@@ -31,7 +31,7 @@ public interface UserInfoService {
      * 查询单位和部门信息
      *
      * @return com.yakka.flex.oauth.vo.result.OrgResultVO
-     * @author Jared
+     * @author 乾乾
      * @date 2022/9/15 2:37 PM
      * @create [2022/9/15 2:37 PM ] [tangyh] [初始创建]
      */

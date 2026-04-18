@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * 基于ArrayList的循环链表类<br>
  * 第一次调用next()将返回第一个元素，调用previous()将返回最后一个元素
  *
- * @author Jared
+ * @author 乾乾
  */
 class CircularList<E> extends ArrayList<E> {
 

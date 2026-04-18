@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 /**
  * 用户下线监听器 [后续如果要修改im_user表的信息要通过原创api]
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 @Component

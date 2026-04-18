@@ -7,7 +7,7 @@ import com.yakka.basic.interfaces.BaseEnum;
 /**
  * 项目类型
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/4/2 8:12 PM
  * @create [2022/4/2 8:12 PM ] [tangyh] [初始创建]

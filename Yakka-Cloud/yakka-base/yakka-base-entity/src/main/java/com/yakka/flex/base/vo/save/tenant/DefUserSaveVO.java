@@ -21,7 +21,7 @@ import static com.yakka.basic.utils.ValidatorUtil.*;
  * 用户
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @since 2021-10-09
  */
 @Data

@@ -5,7 +5,7 @@ import com.yakka.flex.generator.enumeration.SoyComponentEnum;
 import com.yakka.flex.generator.enumeration.VxeComponentEnum;
 
 /**
- * @author Jared
+ * @author 乾乾
  * @date 2022/3/13 23:02
  */
 public enum DbColumnType implements ColumnType {

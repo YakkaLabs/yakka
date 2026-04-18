@@ -38,7 +38,7 @@ import java.util.Date;
  * 而服务启动又是个相对低频的行为，也不影响发号性能，所以可以用DB自增ID来实现。
  * DatabaseWorkerIdAssigner就是依赖DB自增ID实现的workerId分配器。
  *
- * @author Jared
+ * @author 乾乾
  */
 @RequiredArgsConstructor
 public class DisposableWorkerIdAssigner implements WorkerIdAssigner {

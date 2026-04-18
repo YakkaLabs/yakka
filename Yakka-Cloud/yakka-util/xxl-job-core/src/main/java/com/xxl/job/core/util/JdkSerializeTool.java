@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.io.*;
 
 /**
- * @author Jared 2020-04-12 0:14:00
+ * @author 乾乾 2020-04-12 0:14:00
  */
 public class JdkSerializeTool {
     private static Logger logger = LoggerFactory.getLogger(JdkSerializeTool.class);

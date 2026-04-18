@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * 拥有拥有的权限资源
  *
- * @author Jared
+ * @author 乾乾
  * @date 2020/11/28 12:15 下午
  */
 

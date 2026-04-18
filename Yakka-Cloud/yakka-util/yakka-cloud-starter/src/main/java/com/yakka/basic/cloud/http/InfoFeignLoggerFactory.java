@@ -20,8 +20,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.cloud.openfeign.FeignLoggerFactory;
 
 /**
- * @@author Jared
- * @author Jared
+ * @@author 乾乾
+ * @author 乾乾
  * @date 2020/8/9 上午10:03
  * @see org.springframework.cloud.openfeign.DefaultFeignLoggerFactory
  */

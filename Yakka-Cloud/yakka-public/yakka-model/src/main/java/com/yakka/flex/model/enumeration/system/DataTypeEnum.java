@@ -10,7 +10,7 @@ import java.util.stream.Stream;
  * 数据类型
  * 必须和数据字典【EchoDictType.Global.DATA_TYPE】 保持一致
  *
- * @author Jared
+ * @author 乾乾
  * @date 2021/3/15 3:34 下午
  */
 @Getter

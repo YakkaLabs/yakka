@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.RoomFriend;
  * 单聊房间表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface RoomFriendMapper extends BaseMapper<RoomFriend> {

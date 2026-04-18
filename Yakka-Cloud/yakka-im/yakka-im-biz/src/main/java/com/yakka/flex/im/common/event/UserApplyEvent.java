@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 import com.yakka.flex.im.domain.entity.UserApply;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 @Getter
 public class UserApplyEvent extends ApplicationEvent {

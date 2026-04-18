@@ -11,7 +11,7 @@ import com.yakka.basic.exception.code.ResponseEnum;
 /**
  * 响应超时熔断处理器
  *
- * @author Jared
+ * @author 乾乾
  */
 @RestController
 @Slf4j

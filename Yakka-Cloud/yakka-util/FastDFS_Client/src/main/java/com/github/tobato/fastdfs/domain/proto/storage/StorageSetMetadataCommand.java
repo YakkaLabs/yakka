@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * 设置文件标签
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageSetMetadataCommand extends AbstractFdfsCommand<Void> {
 

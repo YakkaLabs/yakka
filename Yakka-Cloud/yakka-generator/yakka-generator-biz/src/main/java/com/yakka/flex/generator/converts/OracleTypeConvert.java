@@ -14,7 +14,7 @@ import static com.yakka.flex.generator.rules.DbColumnType.STRING;
 /**
  * Oracle 数据库生成对应实体类时字段类型转换，跟据 Oracle 中的数据类型，返回对应的 Java 类型
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/8/12 11:18 AM
  * @create [2022/8/12 11:18 AM ] [tangyh] [初始创建]

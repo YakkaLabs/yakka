@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 /**
  * AI 思维导图 Mapper
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface AiMindMapMapper extends BaseMapperX<AiMindMapDO> {

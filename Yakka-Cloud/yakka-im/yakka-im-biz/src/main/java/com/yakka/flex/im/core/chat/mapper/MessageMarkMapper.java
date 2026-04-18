@@ -9,7 +9,7 @@ import com.yakka.flex.im.domain.entity.MessageMark;
  * 消息标记表 Mapper 接口
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 @Repository
 public interface MessageMarkMapper extends BaseMapper<MessageMark> {

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 爱心标记策略
- * @author Jared
+ * @author 乾乾
  */
 @Component
 public class HeartStrategy extends AbstractMsgMarkStrategy {

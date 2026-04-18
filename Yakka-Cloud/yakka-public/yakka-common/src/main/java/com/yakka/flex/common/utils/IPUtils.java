@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * IP 工具类 - 增强版 支持 Spring Cloud Gateway
  * 支持从非浏览器客户端（如ApiFox）获取IP
  *
- * @author Jared
+ * @author 乾乾
  */
 @Slf4j
 public class IPUtils {

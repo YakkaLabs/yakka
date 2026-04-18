@@ -13,7 +13,7 @@ import com.yakka.flex.generator.vo.result.DefGenTableColumnResultVO;
  * 代码生成字段
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  * @date 2022-03-01
  */
 public interface DefGenTableColumnService extends SuperService<Long, DefGenTableColumn> {
@@ -23,7 +23,7 @@ public interface DefGenTableColumnService extends SuperService<Long, DefGenTable
      *
      * @param params params
      * @return com.baomidou.mybatisplus.core.metadata.IPage<com.yakka.flex.generator.vo.result.DefGenTableColumnResultVO>
-     * @author Jared
+     * @author 乾乾
      * @date 2022/10/28 4:54 PM
      * @create [2022/10/28 4:54 PM ] [tangyh] [初始创建]
      */
@@ -35,7 +35,7 @@ public interface DefGenTableColumnService extends SuperService<Long, DefGenTable
      * @param id      id
      * @param tableId
      * @return java.lang.Boolean
-     * @author Jared
+     * @author 乾乾
      * @date 2022/3/26 11:19 AM
      * @create [2022/3/26 11:19 AM ] [tangyh] [初始创建]
      */

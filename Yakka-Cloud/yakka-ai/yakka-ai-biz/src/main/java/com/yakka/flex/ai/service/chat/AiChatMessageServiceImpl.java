@@ -79,7 +79,7 @@ import static com.yakka.basic.utils.collection.CollectionUtils.convertList;
 /**
  * AI 聊天消息 Service 实现类
  *
- * @author Jared
+ * @author 乾乾
  */
 @Service
 @Slf4j

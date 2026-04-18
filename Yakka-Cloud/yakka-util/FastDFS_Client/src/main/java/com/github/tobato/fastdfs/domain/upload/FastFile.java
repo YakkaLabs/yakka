@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * 上传普通文件
  *
- * @author Jared
+ * @author 乾乾
  * @create 2018-12-23 3:06 PM
  */
 public class FastFile {

@@ -2,7 +2,7 @@ package com.yakka.flex.im.common.constant;
 
 /**
  * 管理项目通用key
- * @author Jared
+ * @author 乾乾
  */
 public class RedisKey {
 

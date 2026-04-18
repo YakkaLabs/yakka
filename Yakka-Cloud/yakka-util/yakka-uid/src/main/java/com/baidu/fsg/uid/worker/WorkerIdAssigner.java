@@ -18,7 +18,7 @@ package com.baidu.fsg.uid.worker;
 /**
  * Represents a worker id assigner for {@link com.baidu.fsg.uid.impl.DefaultUidGenerator}
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface WorkerIdAssigner {
 

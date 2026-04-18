@@ -25,7 +25,7 @@ import static com.yakka.flex.common.constant.SwaggerConstants.DATA_TYPE_STRING;
 /**
  * 验证码服务
  *
- * @author Jared
+ * @author 乾乾
  * @version v1.0
  * @date 2022/9/29 5:37 PM
  * @create [2022/9/29 5:37 PM ] [tangyh] [初始创建]

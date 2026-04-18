@@ -19,7 +19,7 @@ import java.util.Arrays;
 /**
  * 默认连接实现
  *
- * @author Jared
+ * @author 乾乾
  */
 public class DefaultConnection implements Connection {
 

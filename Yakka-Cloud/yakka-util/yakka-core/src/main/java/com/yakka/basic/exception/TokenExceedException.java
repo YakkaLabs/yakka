@@ -5,7 +5,7 @@ import com.yakka.basic.exception.code.ResponseEnum;
 /**
  * token过期
  *
- * @author Jared
+ * @author 乾乾
  */
 public class TokenExceedException extends BaseUncheckedException {
 

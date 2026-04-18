@@ -8,7 +8,7 @@ import java.util.List;
  * 用户在线状态表 服务类
  * </p>
  *
- * @author Jared
+ * @author 乾乾
  */
 public interface UserStateService {
 

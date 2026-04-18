@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 具有优先级的title查询器
- * @author Jared
+ * @author 乾乾
  */
 public class PrioritizedUrlDiscover extends AbstractUrlDiscover {
 

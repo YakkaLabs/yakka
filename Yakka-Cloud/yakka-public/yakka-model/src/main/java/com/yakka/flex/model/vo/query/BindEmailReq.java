@@ -11,7 +11,7 @@ import java.io.Serializable;
 
 /**
  * 绑定邮箱
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

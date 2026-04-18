@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 批量查询徽章详情
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

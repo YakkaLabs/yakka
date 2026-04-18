@@ -11,7 +11,7 @@ import com.yakka.flex.model.enums.MessageMarkTypeEnum;
 
 /**
  * 消息标记请求
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

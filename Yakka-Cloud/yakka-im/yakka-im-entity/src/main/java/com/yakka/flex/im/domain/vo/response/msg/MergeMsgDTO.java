@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 合并消息入参
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @SuperBuilder

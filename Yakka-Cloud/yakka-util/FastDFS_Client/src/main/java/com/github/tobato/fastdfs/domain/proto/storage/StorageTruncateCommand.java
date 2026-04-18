@@ -7,7 +7,7 @@ import com.github.tobato.fastdfs.domain.proto.storage.internal.StorageTruncateRe
 /**
  * 文件Truncate命令
  *
- * @author Jared
+ * @author 乾乾
  */
 public class StorageTruncateCommand extends AbstractFdfsCommand<Void> {
 

@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 /**
  * 事件通知的枚举
  *
- * @author Jared
+ * @author 乾乾
  */
 @RequiredArgsConstructor
 @Getter

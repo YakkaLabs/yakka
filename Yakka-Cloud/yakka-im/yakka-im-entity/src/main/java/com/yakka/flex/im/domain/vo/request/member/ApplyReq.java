@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 进群审批
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder

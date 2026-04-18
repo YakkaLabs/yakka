@@ -3,7 +3,7 @@ package com.yakka.flex.im.core.frequencyControl.digist;
 import java.util.LinkedList;
 
 /**
- * @author Jared
+ * @author 乾乾
  */
 public class SlideWindow {
 

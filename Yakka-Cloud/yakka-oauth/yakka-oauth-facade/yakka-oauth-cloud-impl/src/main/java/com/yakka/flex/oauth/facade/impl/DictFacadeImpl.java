@@ -14,7 +14,7 @@ import java.util.Set;
 
 /**
  * 字典实现
- * @author Jared
+ * @author 乾乾
  * @since 2024/9/20 23:29
  */
 @Service(EchoApi.DICTIONARY_ITEM_FEIGN_CLASS)

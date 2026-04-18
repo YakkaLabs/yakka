@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 非空 转换器
  *
- * @author Jared
+ * @author 乾乾
  * @date 2019-07-25 15:14
  */
 public class NotNullConstraintConverter extends BaseConstraintConverter implements IConstraintConverter {

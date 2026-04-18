@@ -23,7 +23,7 @@ import java.util.Set;
 /**
  * Spring AI 工具类
  *
- * @author Jared
+ * @author 乾乾
  */
 public class AiUtils {
 

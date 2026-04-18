@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 消息列表请求
- * @author Jared
+ * @author 乾乾
  */
 @Data
 @Builder
